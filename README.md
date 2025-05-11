@@ -2,7 +2,8 @@
 <h3 align="center">A passionate student from India</h3>
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simiyon_sam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simiyon_sam) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=blackscythe123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
