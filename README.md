@@ -14,17 +14,17 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=blackscythe123&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=blackscythe123&theme=onedark&hide_border=false" alt="Streak Stats" />
   
   <br/>
   
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=blackscythe123&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Profile Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=blackscythe123&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="Profile Stats" />
       </td>
       <td width="50%" >
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackscythe123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Language Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackscythe123&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Language Stats" />
       </td>
     </tr>
   </table>
@@ -32,7 +32,7 @@
   <br/>
   
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=blackscythe123&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true&hide_contributor_rank=false)
+![](https://github-contributor-stats.vercel.app/api?username=blackscythe123&limit=5&theme=onedark&combine_all_yearly_contributions=true&count_private=true&hide_contributor_rank=false)
 
 
 # 🛠️ Languages and Tools:
