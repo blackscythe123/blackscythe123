@@ -166,5 +166,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   </a>
 </p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/ocean.gif" alt="GitHub Contribution Snake" />
+</div>
 </div>
