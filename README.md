@@ -167,6 +167,6 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/ocean.gif" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 </div>
