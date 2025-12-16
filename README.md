@@ -122,9 +122,6 @@
   <a href="https://github.com/blackscythe123/my_portfolio" target="_blank" rel="noreferrer" title="Vercel - Frontend deployment (Portfolio)">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="AWS - Cloud infrastructure">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48"/>
-  </a>
 </p>
 
 ### Mobile Development
