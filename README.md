@@ -12,22 +12,22 @@
 </div>
 
 # 📊 GitHub Stats:
-
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=blackscythe123&theme=onedark&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=blackscythe123&theme=github_dark" alt="Streak Stats" />
   
   <br/>
   
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=blackscythe123&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="Profile Stats" />
-      </td>
-      <td width="50%" >
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackscythe123&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Language Stats" />
-      </td>
-    </tr>
-  </table>
+<table class="stats">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
   
   <br/>
   
