@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simiyon Vinscent Samuel</h1>
 <h3 align="center">A Engineering student from India</h3>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <div align="center">
 
@@ -97,9 +98,10 @@
   <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Solidity - Smart contracts for FarmLedge blockchain">
     <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Ethereum - Blockchain platform (Sepolia Testnet)">
-    <img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum" width="48" height="48"/>
-  </a>
+<a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Ethereum - Blockchain platform (Sepolia Testnet)">
+  <img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum" />
+</a>
+
   <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Web3.js - Blockchain interaction library">
     <img src="https://skillicons.dev/icons?i=web3js" alt="Web3.js" width="48" height="48"/>
   </a>
@@ -137,7 +139,7 @@
 ### Browser Extensions & Developer Tools
 <p align="center">
   <a href="https://github.com/blackscythe123/No-Logs" target="_blank" rel="noreferrer" title="Chrome Extensions - Privacy extension (No-Logs, 88.7% JavaScript)">
-    <img src="https://skillicons.dev/icons?i=chrome" alt="Chrome Extensions" width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=965&format=png&color=000000" alt="Chrome Extensions" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Git - Version control for all projects">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
@@ -159,7 +161,7 @@
     <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="NumPy - Numerical computing for ML">
-    <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Scikit-learn - Machine learning library">
     <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="48" height="48"/>
