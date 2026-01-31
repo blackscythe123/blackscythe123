@@ -158,7 +158,7 @@
     <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Pandas - Data manipulation in research">
-    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="NumPy - Numerical computing for ML">
     <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" width="48" height="48"/>
