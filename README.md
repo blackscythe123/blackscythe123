@@ -155,7 +155,7 @@
 ### Data Science & Research
 <p align="center">
   <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Jupyter Notebook - ML research and data analysis (IRSE)">
-    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Pandas - Data manipulation in research">
     <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="48" height="48"/>
