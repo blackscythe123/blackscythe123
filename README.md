@@ -203,7 +203,7 @@
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="JSON - Data serialization">
-    <img src="https://skillicons.dev/icons?i=json" alt="JSON" width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=DuPGo_P_q_-x&format=png&color=000000" alt="JSON" width="48" height="48"/>
   </a>
 </p>
 
