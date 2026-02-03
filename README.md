@@ -197,7 +197,7 @@
     <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="YAML - Configuration files">
-    <img src="https://skillicons.dev/icons?i=yaml" alt="YAML" width="48" height="48"/>
+    <img src="https://imgs.search.brave.com/p2YzaC0Qa03N5FqcKq2eAJBVv9_NILNHpr8HMCDSCFU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVhL09m/ZmljaWFsX1lBTUxf/TG9nby5zdmcvMjUw/cHgtT2ZmaWNpYWxf/WUFNTF9Mb2dvLnN2/Zy5wbmc" alt="YAML" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Docker - Containerization & deployment">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
