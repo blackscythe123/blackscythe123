@@ -171,7 +171,7 @@
 ### Automation & Workflow Tools
 <p align="center">
   <a href="https://github.com/blackscythe123/workflow_space" target="_blank" rel="noreferrer" title="n8n - Workflow automation (workflow_space project, 7 stars)">
-    <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" width="48" height="48"/>
+    <img src="https://imgs.search.brave.com/FS5gBhaAUed25VWww_1mBkrTF4994i7NTvbwWcQrJh8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ3OTExN2Yw/YjQ4OTFkNzMzMGI2/ZWYzNDk4Yjc3YmJk/MTFjMDM0NjU3NDVm/NzE1MDc2ZGFlNzlm/MWYzMDFiZC9uOG4u/aW8v" alt="n8n" width="48" height="48"/>
   </a>
 </p>
 
