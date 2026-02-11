@@ -181,7 +181,7 @@
     <img src="https://skillicons.dev/icons?i=stripe" alt="Stripe API" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="WebRTC - Real-time communication (IdeaQuest)">
-    <img src="https://skillicons.dev/icons?i=webrtc" alt="WebRTC" width="48" height="48"/>
+    <img src="https://imgs.search.brave.com/wWFzExIAl0zk-1Va_qKCPCJcH16gL3WYnZYNFZXKf6U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGRhZGMwOTMx/NjI0YzBmZmRiMWRi/M2ZkYjRmMmYxOTRh/ZTJkOTE1ZjdmNTM5/NDc4ZTdkMDgzYjJj/NjM2NDZkNi93ZWJy/dGMub3JnLw" alt="WebRTC" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Postman - API testing and development">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/>
