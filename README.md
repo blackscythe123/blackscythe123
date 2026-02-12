@@ -99,11 +99,11 @@
     <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48"/>
   </a>
 <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Ethereum - Blockchain platform (Sepolia Testnet)">
-  <img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum" />
+  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="Ethereum" width="48" height="48" />
 </a>
 
   <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Web3.js - Blockchain interaction library">
-    <img src="https://skillicons.dev/icons?i=web3js" alt="Web3.js" width="48" height="48"/>
+    <img src="https://avatars.githubusercontent.com/u/36739222?v=4" alt="Web3.js" width="48" height="48"/>
   </a>
 </p>
 
