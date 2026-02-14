@@ -48,7 +48,7 @@
   <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="JavaScript - Frontend interactivity (69.8% IdeaQuest, 88.7% No-Logs)">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="TypeScript - Modern web development (FarmLedge, portfolio, workflow_space)">
+  <a href="https://github.com/blackscythe123/workflow_space" target="_blank" rel="noreferrer" title="TypeScript - Modern web development (workflow_space, portfolio, chillzTV)">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/my_portfolio" target="_blank" rel="noreferrer" title="React - Frontend framework for modern applications">
@@ -57,7 +57,7 @@
   <a href="https://github.com/blackscythe123/my_portfolio" target="_blank" rel="noreferrer" title="Next.js - Full-stack React framework">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Tailwind CSS - Utility-first CSS framework">
+  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Tailwind CSS - Utility-first CSS framework">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="Bootstrap - UI framework">
@@ -70,40 +70,42 @@
   <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="Python - Backend development, data science (37.1% Skywings, IRSE, ML projects)">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="Flask - Web framework for Python backend">
+  <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="Flask - Web framework for Python backend (Skywings)">
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/Retro_Rpg" target="_blank" rel="noreferrer" title="Java - Desktop GUI and OOP applications">
+  <a href="https://github.com/blackscythe123/Retro_Rpg" target="_blank" rel="noreferrer" title="Java - Desktop GUI and OOP applications (Retro_Rpg)">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="Node.js - Backend server for real-time applications">
+  <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="Node.js - Backend server for real-time applications (IdeaQuest)">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="Express.js - Backend API framework">
+  <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="Express.js - Backend API framework (IdeaQuest)">
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/OPERATING_SYSTEM" target="_blank" rel="noreferrer" title="C - Systems programming and OS concepts">
+  <a href="https://github.com/blackscythe123/ShellQuest" target="_blank" rel="noreferrer" title="C - Systems programming and OS concepts (ShellQuest, 2.94%)">
     <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/bunk" target="_blank" rel="noreferrer" title="C++ - Native platform-specific code (14.1% in Bunk)">
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="C++ - Native platform-specific code (28.01% Chillz-iptv, 14.1% Bunk)">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Bash - Shell scripting & automation">
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="Bash - Shell scripting & automation (Chillz-iptv, Retro_Rpg)">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48"/>
   </a>
 </p>
 
-### Blockchain & Web3
+### Mobile Development
 <p align="center">
-  <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Solidity - Smart contracts for FarmLedge blockchain">
-    <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123/bunk" target="_blank" rel="noreferrer" title="Flutter - Cross-platform mobile app framework (Bunk, Flashbook, Omerta, Chillz-iptv)">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48"/>
   </a>
-<a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Ethereum - Blockchain platform (Sepolia Testnet)">
-  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="Ethereum" width="48" height="48" />
-</a>
-
-  <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="Web3.js - Blockchain interaction library">
-    <img src="https://avatars.githubusercontent.com/u/36739222?v=4" alt="Web3.js" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123/flashbook" target="_blank" rel="noreferrer" title="Dart - Programming language for Flutter (28.58% overall, Flashbook, Omerta, Chillz-iptv)">
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="Swift - iOS development (0.23%, Chillz-iptv, Bunk)">
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="Kotlin - Android development (0.05%, Chillz-iptv)">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="48" height="48"/>
   </a>
 </p>
 
@@ -112,27 +114,17 @@
   <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="PostgreSQL - Relational database (Skywings)">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="SQLite - Development database">
+  <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="SQLite - Development database (Skywings)">
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="MySQL - Relational database">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Firebase - Backend services & real-time database">
+  <a href="https://github.com/blackscythe123/flashbook" target="_blank" rel="noreferrer" title="Firebase - Backend services & real-time database (Flashbook, Omerta)">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123/my_portfolio" target="_blank" rel="noreferrer" title="Vercel - Frontend deployment (Portfolio)">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/>
-  </a>
-</p>
-
-### Mobile Development
-<p align="center">
-  <a href="https://github.com/blackscythe123/bunk" target="_blank" rel="noreferrer" title="Flutter - Cross-platform mobile app (Bunk attendance tracker)">
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48"/>
-  </a>
-  <a href="https://github.com/blackscythe123/bunk" target="_blank" rel="noreferrer" title="Dart - Programming language for Flutter (71.7%)">
-    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48"/>
   </a>
 </p>
 
@@ -144,7 +136,7 @@
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Git - Version control for all projects">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123" target="_blank" rel="noreferrer" title="GitHub - Repository hosting and collaboration (Pro)">
+  <a href="https://github.com/blackscythe123" target="_blank" rel="noreferrer" title="GitHub - Repository hosting and collaboration">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="VS Code - Primary development environment">
@@ -154,24 +146,38 @@
 
 ### Data Science & Research
 <p align="center">
-  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Jupyter Notebook - ML research and data analysis (IRSE)">
-    <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Jupyter Notebook - ML research and data analysis (IRSE, 3.51%)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Pandas - Data manipulation in research">
-    <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Pandas - Data manipulation in research (IRSE)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="NumPy - Numerical computing for ML">
-    <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="NumPy - Numerical computing for ML (IRSE)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Scikit-learn - Machine learning library">
+  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="Scikit-learn - Machine learning library (IRSE)">
     <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="48" height="48"/>
+  </a>
+
+</p>
+
+### Build Tools & Automation
+<p align="center">
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="CMake - Cross-platform build system (1.86%, Chillz-iptv, Flashbook)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="PowerShell - Windows automation scripting (0.12%, Chillz-iptv)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/ShellQuest" target="_blank" rel="noreferrer" title="Makefile - Build automation (ShellQuest)">
+    <img src="https://imgs.search.brave.com/A6GwG6aJxT5leduZmt1yIGpcHR8fqA4XptR8yv_nWxk/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL01pY3Jv/c29mdC92c2NvZGUt/bWFrZWZpbGUtdG9v/bHMvcmF3L0hFQUQv/cmVzL21ha2VmaWxl/LWxvZ28tbm8tYmFj/a2dyb3VuZC5wbmc" alt="Makefile" width="48" height="48"/>
   </a>
 </p>
 
 ### Automation & Workflow Tools
 <p align="center">
-  <a href="https://github.com/blackscythe123/workflow_space" target="_blank" rel="noreferrer" title="n8n - Workflow automation (workflow_space project, 7 stars)">
-    <img src="https://imgs.search.brave.com/FS5gBhaAUed25VWww_1mBkrTF4994i7NTvbwWcQrJh8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ3OTExN2Yw/YjQ4OTFkNzMzMGI2/ZWYzNDk4Yjc3YmJk/MTFjMDM0NjU3NDVm/NzE1MDc2ZGFlNzlm/MWYzMDFiZC9uOG4u/aW8v" alt="n8n" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123/workflow_space" target="_blank" rel="noreferrer" title="n8n - Workflow automation platform (workflow_space project, 7 stars)">
+    <img src="https://avatars.githubusercontent.com/u/45487711?v=4" alt="n8n" width="48" height="48"/>
   </a>
 </p>
 
@@ -180,14 +186,30 @@
   <a href="https://github.com/blackscythe123/skywings" target="_blank" rel="noreferrer" title="Stripe API - Payment processing (Skywings)">
     <img src="https://skillicons.dev/icons?i=stripe" alt="Stripe API" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="WebRTC - Real-time communication (IdeaQuest)">
-    <img src="https://imgs.search.brave.com/wWFzExIAl0zk-1Va_qKCPCJcH16gL3WYnZYNFZXKf6U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGRhZGMwOTMx/NjI0YzBmZmRiMWRi/M2ZkYjRmMmYxOTRh/ZTJkOTE1ZjdmNTM5/NDc4ZTdkMDgzYjJj/NjM2NDZkNi93ZWJy/dGMub3JnLw" alt="WebRTC" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123/ideaquest" target="_blank" rel="noreferrer" title="WebRTC - Real-time communication protocol (IdeaQuest video conferencing)">
+    <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="VLC/LibVLC - Media playback library (Chillz-iptv IPTV player)">
+    <img src="https://avatars.githubusercontent.com/u/1389585?v=4" alt="VLC/LibVLC" width="48" height="48"/>
   </a>
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Postman - API testing and development">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="npm - Package management">
+  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="npm - Package management (Node.js projects)">
     <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="48" height="48"/>
+  </a>
+</p>
+
+### AI & Machine Learning Tools
+<p align="center">
+  <a href="https://github.com/blackscythe123/flashbook" target="_blank" rel="noreferrer" title="Gemini API - Google's AI model (Flashbook content generation)">
+    <img src="https://imgs.search.brave.com/cj7jNYO4VXm428dGXzh--H0SIF6LQkp9yo24-yPzMI8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmEwZTNmYWNm/MTk2Yjg1YzVlNmU5/OWZkMDNkM2Y2NjVm/YzJlNDBlYjMwODMw/YWNmMmUxNDBlMjdh/NzdjMmVkZi9nZW1p/bmkuZ29vZ2xlLmNv/bS8" alt="Gemini API" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/faceguard" target="_blank" rel="noreferrer" title="DeepFace - Face recognition library (FaceGuard deepfake detection)">
+    <img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png" alt="DeepFace" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="CodeBERT - Code understanding model (IRSE information retrieval)">
+    <img src="https://imgs.search.brave.com/SzvNkZQuq90vgeR31MxC2PHBqoCOdrk9S9zPwDVH5uc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHlnaW1saS5vcmcv/X2ltYWdlcy9zcGh4/X2dscl9wbG90X2Jl/cnQtbG9nb18wMDEu/cG5n" alt="CodeBERT" width="48" height="48"/>
   </a>
 </p>
 
@@ -196,24 +218,29 @@
   <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Markdown - Documentation and README files">
     <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123/FarmLedge" target="_blank" rel="noreferrer" title="YAML - Configuration files">
-    <img src="https://imgs.search.brave.com/p2YzaC0Qa03N5FqcKq2eAJBVv9_NILNHpr8HMCDSCFU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVhL09m/ZmljaWFsX1lBTUxf/TG9nby5zdmcvMjUw/cHgtT2ZmaWNpYWxf/WUFNTF9Mb2dvLnN2/Zy5wbmc" alt="YAML" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="YAML - Configuration files">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="Docker - Containerization & deployment">
+  <a href="https://github.com/blackscythe123/flashbook" target="_blank" rel="noreferrer" title="Docker - Containerization & deployment (Flashbook)">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
   </a>
-  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="JSON - Data serialization">
-    <img src="https://img.icons8.com/?size=100&id=DuPGo_P_q_-x&format=png&color=000000" alt="JSON" width="48" height="48"/>
+  <a href="https://github.com/blackscythe123?tab=repositories" target="_blank" rel="noreferrer" title="JSON - Data serialization format">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="48" height="48"/>
+  </a>
+    <a href="https://github.com/blackscythe123/IRSE" target="_blank" rel="noreferrer" title="LaTeX/TeX - Document preparation system (IRSE research papers, 0.26%)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="48" height="48"/>
   </a>
 </p>
 
-### Learning & Gamification
+### Operating Systems & Platforms
 <p align="center">
-  <a href="https://github.com/blackscythe123/ShellQuest" target="_blank" rel="noreferrer" title="ShellQuest - Gamified Linux learning (Forked)">
+  <a href="https://github.com/blackscythe123/ShellQuest" target="_blank" rel="noreferrer" title="Linux - Gamified Linux learning (ShellQuest)">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/blackscythe123/Chillz-iptv" target="_blank" rel="noreferrer" title="Windows - Cross-platform development support">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="48" height="48"/>
   </a>
 </p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
+  <sub>⭐ Star my repositories if you find them interesting!</sub>
 </div>
