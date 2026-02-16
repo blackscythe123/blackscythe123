@@ -242,5 +242,7 @@
   </a>
 </p>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+<div align="center">
   <sub>⭐ Star my repositories if you find them interesting!</sub>
 </div>
