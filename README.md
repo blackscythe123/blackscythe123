@@ -14,17 +14,17 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=blackscythe123&theme=github_dark" alt="Streak Stats" />
+  <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github_dark" alt="Streak Stats" />
   
   <br/>
   
 <table class="stats">
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark" />
+      <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark" />
     </td>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark" />
+      <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
     </td>
   </tr>
 </table>
