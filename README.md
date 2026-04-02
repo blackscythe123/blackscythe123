@@ -246,3 +246,5 @@
 <div align="center">
   <sub>⭐ Star my repositories if you find them interesting!</sub>
 </div>
+GEMINI_API_KEY=AIzaSyAPKKveKXVXAt8_0HiGqlG8XuYT8e79QWY
+TAVILY_API_KEY=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
