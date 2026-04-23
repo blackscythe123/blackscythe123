@@ -96,16 +96,6 @@
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=blackscythe123&limit=5&theme=github_dark&combine_all_yearly_contributions=true&count_private=true&hide_contributor_rank=false)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
