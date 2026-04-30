@@ -17,8 +17,8 @@
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=false&bar_color=1db954&bar_color_cover=false&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&bar_color=1db954&bar_color_cover=false&mode=light" />
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
   </picture>
 </a>
