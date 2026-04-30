@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - feat/readme-enhancements
   schedule:
     - cron: '0 2 * * *'  # daily at 2am UTC
   workflow_dispatch:
