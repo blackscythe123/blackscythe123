@@ -3,7 +3,7 @@ name: WakaTime Coding Stats
 on:
   push:
     branches:
-      - feat/readme-enhancements
+      - main
   schedule:
     - cron: '0 0 * * *'  # daily at midnight UTC
   workflow_dispatch:
