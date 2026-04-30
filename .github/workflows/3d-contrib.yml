@@ -1,0 +1,42 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  push:
+    branches:
+      - main
+      - feat/readme-enhancements
+  schedule:
+    - cron: '0 2 * * *'  # daily at 2am UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          SETTING_JSON: |
+            {
+              "githubUserName": "${{ github.repository_owner }}",
+              "fileName": "profile-3d-contrib/profile-night-rainbow.svg",
+              "foregroundColor": "white",
+              "backgroundColor": "black"
+            }
+      - name: Commit 3D contribution graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update 3D contribution graph [skip ci]"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

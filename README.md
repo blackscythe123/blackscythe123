@@ -11,6 +11,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackscythe123)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=blackscythe123.blackscythe123&left_color=1f6feb&right_color=58a6ff&left_text=visitors)
+
 </div>
 
 ---
@@ -25,6 +27,89 @@
 
 <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" />
 <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
+
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2021%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 453.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 565 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 22 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+🌆 Daytime                745 commits         ██████████░░░░░░░░░░░░░░░   40.18 % 
+🌃 Evening                679 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌙 Night                  281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Wednesday                284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Thursday                 194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Friday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Saturday                 236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Sunday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
+Other                    1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+
+🔥 Editors: 
+Unknown Editor           6 hrs 13 mins       ██████████████████░░░░░░░   73.66 % 
+VS Code                  2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+
+💻 Operating System: 
+Windows                  8 hrs 26 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+```
+
+
+
+
+ Last Updated on 30/04/2026 17:05:43 UTC
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -132,7 +217,13 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+<br/>
 
 <sub>⭐ Star my repositories if you find them useful!</sub>
 
