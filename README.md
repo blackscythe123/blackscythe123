@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4ff,50:c8e6ff,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=0d1117&fontAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" />
+</picture>
 
 ### Engineering Student · Full-Stack Developer · Mobile & AI Enthusiast
 
@@ -11,9 +15,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackscythe123)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=106010&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true)
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=blackscythe123.blackscythe123&left_color=1f6feb&right_color=58a6ff&left_text=visitors)
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=false&bar_color=1db954&bar_color_cover=false&mode=light" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
+  </picture>
+</a>
 
 </div>
 
@@ -23,13 +33,24 @@
 
 <div align="center">
 
-<img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github_dark" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=default&hide_border=false" />
+  <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true" height="165" />
+</picture>
 
 <br/><br/>
 
-<img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-<img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=default&hide_border=false" />
+  <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" />
+  <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=default&hide_border=false&hide=jupyter%20notebook" />
+  <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
+</picture>
 
 </div>
 
@@ -219,16 +240,28 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-green.svg" />
+  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</picture>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</picture>
 
 <br/>
 
 <sub>⭐ Star my repositories if you find them useful!</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:c8e6ff,100:ffffff&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer" />
+</picture>
 
 </div>
