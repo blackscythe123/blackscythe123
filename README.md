@@ -11,6 +11,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackscythe123)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=106010&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true)
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=blackscythe123.blackscythe123&left_color=1f6feb&right_color=58a6ff&left_text=visitors)
 
 </div>
