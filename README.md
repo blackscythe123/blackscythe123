@@ -11,6 +11,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackscythe123)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=blackscythe123.blackscythe123&left_color=1f6feb&right_color=58a6ff&left_text=visitors)
+
 </div>
 
 ---
@@ -25,6 +27,21 @@
 
 <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" />
 <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=blackscythe123&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -132,7 +149,13 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+<br/>
 
 <sub>⭐ Star my repositories if you find them useful!</sub>
 
