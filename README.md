@@ -32,7 +32,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github_dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=default&hide_border=false" />
   <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true" height="165" />
 </picture>
@@ -48,6 +48,18 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" />
   <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=default&hide_border=false&hide=jupyter%20notebook" />
   <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="600" />
 </picture>
 
 </div>
@@ -237,14 +249,6 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</picture>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" />
