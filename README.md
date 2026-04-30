@@ -1,10 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4ff,50:c8e6ff,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=0d1117&fontAlignY=70" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70" />
-</picture>
+<a href="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4ff,50:c8e6ff,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=0d1117&fontAlignY=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70" />
+  </picture>
+</a>
 
 ### Engineering Student · Full-Stack Developer · Mobile & AI Enthusiast
 
@@ -31,21 +33,28 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=default&hide_border=false" />
-  <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=default&hide_border=false" />
-  <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" />
-  <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=default&hide_border=false&hide=jupyter%20notebook" />
-  <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
-</picture>
+<a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=default&hide_border=false" />
+    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true" height="165" />
+  </picture>
+</a>
+<br>
+<a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=default&hide_border=false" />
+    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  </picture>
+</a>
+<a href="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=default&hide_border=false&hide=jupyter%20notebook" />
+    <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
+  </picture>
+</a>
 
 </div>
 
@@ -53,11 +62,13 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="600" />
-</picture>
+<a href="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-green-animate.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="600" />
+  </picture>
+</a>
 
 </div>
 
