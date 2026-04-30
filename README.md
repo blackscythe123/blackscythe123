@@ -28,9 +28,6 @@
 <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" />
 <img src="https://stats-blackscythe123.vercel.app/api/top-langs/?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="165" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=blackscythe123&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
