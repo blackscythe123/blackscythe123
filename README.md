@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadein" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" width="100%" />
 </a>
 
 ### Engineering Student · Full-Stack Developer · Mobile & AI Enthusiast
@@ -264,10 +264,8 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 <sub>⭐ Star my repositories if you find them useful!</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:c8e6ff,100:ffffff&height=80&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer" />
-</picture>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%" />
+
 
 </div>
