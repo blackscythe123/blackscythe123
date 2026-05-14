@@ -229,7 +229,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 [![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/blackscythe123/flashbook)
 [![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/blackscythe123/openclaude)
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/blackscythe123/voxa)
-[![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)](https://github.com/blackscythe123/soundwave)
 
 **Web3 / Blockchain**
 
