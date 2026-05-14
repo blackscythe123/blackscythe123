@@ -199,6 +199,11 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://github.com/blackscythe123/flashbook)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/blackscythe123/flashbook)
 [![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/blackscythe123/OutPass)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/blackscythe123/soundwave)
+
+**Desktop**
+
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/blackscythe123/voxa)
 
 **Database & Cloud**
 
@@ -222,6 +227,9 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/blackscythe123/IRSE)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/blackscythe123/IRSE)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/blackscythe123/flashbook)
+[![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/blackscythe123/openclaude)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/blackscythe123/voxa)
+[![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)](https://github.com/blackscythe123/soundwave)
 
 **Web3 / Blockchain**
 
@@ -246,6 +254,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/blackscythe123/flashbook)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/blackscythe123/ShellQuest)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://github.com/blackscythe123/my_portfolio)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://github.com/blackscythe123/openclaude)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/blackscythe123/IRSE)
 
 </div>
