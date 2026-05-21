@@ -75,38 +75,78 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.58%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 661.5 kB Used in GitHub's Storage 
+> 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 810 Contributions in the Year 2026
+> 🏆 833 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
-**I Mostly Code in TypeScript** 
+**I'm a Night 🦉** 
 
 ```text
-TypeScript               18 repos            ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-HTML                     17 repos            ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+🌞 Morning                177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+🌆 Daytime                1003 commits        ██████████░░░░░░░░░░░░░░░   40.62 % 
+🌃 Evening                939 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
+🌙 Night                  350 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Wednesday                396 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Thursday                 265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Friday                   452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Saturday                 292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Sunday                   349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Kotlin                   4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+TypeScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+HTML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+XML                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 49 mins      █████████████████████░░░░   85.18 % 
+Claude Code              2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Antigravity              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+
+💻 Operating System: 
+Windows                  18 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     18 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               18 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 20/05/2026 02:05:01 UTC
+ Last Updated on 21/05/2026 02:04:49 UTC
 <!--END_SECTION:waka-->
 
 </div>
