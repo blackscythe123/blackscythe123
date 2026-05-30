@@ -13,21 +13,30 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackscythe123)
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&bar_color=1db954&bar_color_cover=false&mode=light" />
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
-  </picture>
-</a>
+**📡 My live status — 🎧 what I'm listening to &nbsp;·&nbsp; 💻 what I'm building right now**
 
-<a href="https://pet.simiyonvinscentsamuel.tech">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&theme=dark&label=blackscythe123&radius=40" />
-    <source media="(prefers-color-scheme: light)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" />
-    <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" alt="coding status" />
-  </picture>
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&bar_color=1db954&bar_color_cover=false&mode=light" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" width="400" alt="Now playing on Spotify" />
+        </picture>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pet.simiyonvinscentsamuel.tech">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&theme=dark&label=blackscythe123&radius=40" />
+          <source media="(prefers-color-scheme: light)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" />
+          <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" width="400" alt="coding status" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
