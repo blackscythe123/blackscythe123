@@ -21,6 +21,14 @@
   </picture>
 </a>
 
+<a href="https://pet.simiyonvinscentsamuel.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&theme=dark&label=blackscythe123&radius=40" />
+    <source media="(prefers-color-scheme: light)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" />
+    <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" alt="coding status" />
+  </picture>
+</a>
+
 </div>
 
 ---
