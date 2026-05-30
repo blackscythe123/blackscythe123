@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsamuel234567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackscythe123)
 
-**📡 My live status — 🎧 what I'm listening to &nbsp;·&nbsp; 💻 what I'm building right now**
+**Songs & Thoughts on My Mind**
 
 <table align="center">
   <tr>
@@ -29,8 +29,8 @@
     <td align="center">
       <a href="https://pet.simiyonvinscentsamuel.tech">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&theme=dark&label=blackscythe123&radius=40" />
-          <source media="(prefers-color-scheme: light)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&theme=dark&label=blackscythe123&radius=40&bg=transparent&border=false" />
+          <source media="(prefers-color-scheme: light)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40&bg=transparent&border=false" />
           <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&label=blackscythe123&radius=40" width="400" alt="coding status" />
         </picture>
       </a>
