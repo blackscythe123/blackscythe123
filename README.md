@@ -89,8 +89,8 @@
 
 <a href="https://github-readme-leetcode-stats.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages%2Cheatmap&theme=tokyonight-duo&background=000000&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages%2Cheatmap&hide_border=true&border_radius=30&v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages%2Cheatmap&theme=catppuccin-macchiato&hide_border=true&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages%2Cheatmap&theme=catppuccin-latte&hide_border=true&v=2" />
     <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages%2Cheatmap&hide_border=true&border_radius=30&v=2" alt="LeetCode stats for blackscythe123" width="600" />
   </picture>
 </a>
