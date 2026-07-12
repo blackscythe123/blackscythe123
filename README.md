@@ -91,7 +91,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages%2Cheatmap&theme=github-dark&hide_border=true&border_radius=30" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages%2Cheatmap&hide_border=true&border_radius=30" />
-    <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="600" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/" alt="Github Readme leetcode stats" width="600" />
   </picture>
 </a>
 
