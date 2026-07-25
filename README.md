@@ -107,13 +107,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.80%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 1,759 Contributions in the Year 2026
+> 🏆 1,802 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -121,45 +121,6 @@
  > 
 > 🔑 37 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                407 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-🌆 Daytime                1568 commits        █████████░░░░░░░░░░░░░░░░   37.67 % 
-🌃 Evening                1521 commits        █████████░░░░░░░░░░░░░░░░   36.54 % 
-🌙 Night                  667 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Tuesday                  748 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Wednesday                605 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Friday                   752 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Saturday                 514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Sunday                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.42 % 
-Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Python                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-
-🔥 Editors: 
-Claude Code              11 hrs 32 mins      █████████████████████████   99.27 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-💻 Operating System: 
-Windows                  11 hrs 37 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -173,7 +134,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:29:22 UTC
+ Last Updated on 25/07/2026 01:29:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
