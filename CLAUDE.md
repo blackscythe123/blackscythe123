@@ -35,12 +35,13 @@ The README has three logical sections — **do not reorder them**:
 
 ## Tech Stack — Sections & Curation Rules
 
-The Tech Stack uses `flat-square` shields.io badges. There are **8 sections** in order:
+The Tech Stack uses `flat-square` shields.io badges. There are **9 sections** in order:
 
 1. **Frontend** — languages, frameworks, UI libraries, animation, data-viz, routing
 2. **Backend** — server frameworks, ORMs, languages, communication APIs
 3. **Mobile** — cross-platform & native SDKs, on-device ML, Compose
-4. **Desktop** — desktop app frameworks (Electron, Tauri, etc.)
+4. **Agentic AI & Developer Tooling** — autonomous coding agents, developer CLIs, model harnesses (Claude Code, Antigravity CLI, Codex CLI)
+5. **Desktop** — desktop app frameworks (Electron, Tauri, etc.)
 5. **Database & Cloud** — databases (SQL + NoSQL), BaaS, hosting, deployment platforms, containers
 6. **AI / Data Science** — ML frameworks, CV, data libraries, AI APIs, model runtimes
 7. **Web3 / Blockchain** — smart contract languages, Ethereum client libraries

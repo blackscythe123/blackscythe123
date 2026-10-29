@@ -142,6 +142,15 @@
 
 <br/>
 
+**Agentic AI & Developer Tooling**
+
+[![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-202124?style=flat-square&logo=googledeepmind&logoColor=white)](https://github.com/blackscythe123)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/blackscythe123/openclaude)
+[![Claude CLI](https://img.shields.io/badge/Claude_CLI-191919?style=flat-square&logo=anthropic&logoColor=D97757)](https://github.com/blackscythe123/openclaude)
+[![Codex CLI](https://img.shields.io/badge/Codex_CLI-10A37F?style=flat-square&logo=openai&logoColor=white)](https://github.com/blackscythe123)
+
+<br/>
+
 **Database & Cloud Infrastructure**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/blackscythe123/MCME-degital)
