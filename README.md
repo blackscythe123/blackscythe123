@@ -33,9 +33,9 @@
     <td align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
           <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&bar_color=1db954&bar_color_cover=false&mode=light" />
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" width="400" alt="Now playing on Spotify" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" width="400" alt="Now playing on Spotify" />
         </picture>
       </a>
     </td>
@@ -59,26 +59,26 @@
 
 <div align="center">
 
-<a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true">
+<a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=default&hide_border=false" />
-    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=github-dark&hide_border=true" height="165" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true" />
+    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true" height="165" alt="GitHub Streak" />
   </picture>
 </a>
 <br/>
-<a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true">
+<a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=default&hide_border=false" />
-    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats" />
   </picture>
 </a>
-<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html">
+<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html&bg_color=00000000">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=default&hide_border=false&hide=jupyter%20notebook,html" />
-    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html" height="165" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook,html&bg_color=00000000" />
+    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html&bg_color=00000000" height="165" alt="Top Languages" />
   </picture>
 </a>
 
@@ -87,9 +87,9 @@
 <!-- LeetCode Compact Card -->
 <a href="https://github-readme-leetcode-stats.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=catppuccin-macchiato&hide_border=true&border_radius=12&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=catppuccin-latte&hide_border=true&border_radius=12&v=2" />
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=catppuccin-macchiato&hide_border=true&border_radius=12&v=2" width="520" alt="LeetCode Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&v=2" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&v=2" width="520" alt="LeetCode Stats" />
   </picture>
 </a>
 
