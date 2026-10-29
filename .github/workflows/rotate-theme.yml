@@ -1,0 +1,38 @@
+name: Daily Profile Theme Rotation
+
+on:
+  schedule:
+    # 18:30 UTC = 00:00 Midnight IST every single day
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate-theme:
+    name: Rotate Profile Theme Palette
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Execute theme rotation
+        run: python .github/scripts/rotate_theme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "style: rotate daily profile theme [skip ci]"
+            git push
+          else
+            echo "No theme changes detected for today."
+          fi

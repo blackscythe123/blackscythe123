@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" width="100%" alt="Simiyon Vinscent Samuel" />
+<a href="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=d2a8ff&fontAlignY=70&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=d2a8ff&fontAlignY=70&animation=fadeIn" width="100%" alt="Simiyon Vinscent Samuel" />
 </a>
 
 ### Engineering Student · Full-Stack Developer · Mobile & AI Systems Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=d2a8ff&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/simiyonvinscentsamuel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDU0Yy45NzkgMCAxLjc3NS0uNzczIDEuNzc1LTEuNzI5VjEuNzI5QzI0IC43NzQgMjMuMjA1IDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
@@ -65,16 +65,16 @@
 <br/>
 <a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=default&hide_border=true&bg_color=00000000&include_all_commits=true" />
-    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true" height="165" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=d2a8ff&icon_color=d2a8ff&ring_color=d2a8ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=default&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=6639ba&icon_color=6639ba&ring_color=6639ba" />
+    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=d2a8ff&icon_color=d2a8ff&ring_color=d2a8ff" height="165" alt="GitHub Stats" />
   </picture>
 </a>
 <a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=default&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" />
-    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" height="165" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=6639ba&theme=default&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" />
+    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" height="165" alt="Top Languages" />
   </picture>
 </a>
 
@@ -211,6 +211,6 @@
 
 <sub>Crafted with focus · [@blackscythe123](https://github.com/blackscythe123)</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=70&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff,50:161b22,100:0d1117&height=70&section=footer&animation=fadeIn" width="100%" />
 
 </div>
