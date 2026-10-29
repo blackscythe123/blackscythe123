@@ -11,49 +11,56 @@ PALETTES = [
         "name": "Cyan",
         "dark": "39c5bb",    # 8.90:1 on #0d1117
         "light": "057a6e",   # 4.98:1 on #ffffff
-        "capsule_accent": "1f8f87"
+        "capsule_accent": "1f8f87",
+        "capsule_light_mid": "099a8b"
     },
     # 1: Tuesday - Cyber Violet & Deep Purple
     {
         "name": "Cyber Violet",
         "dark": "bc8cff",    # 7.51:1 on #0d1117
         "light": "8250df",   # 5.05:1 on #ffffff
-        "capsule_accent": "8957e5"
+        "capsule_accent": "8957e5",
+        "capsule_light_mid": "9a67ea"
     },
     # 2: Wednesday - Terminal Mint & Forest Green
     {
         "name": "Terminal Mint",
         "dark": "56d364",    # 7.20:1 on #0d1117
         "light": "1a7f37",   # 5.08:1 on #ffffff
-        "capsule_accent": "238636"
+        "capsule_accent": "238636",
+        "capsule_light_mid": "2da44e"
     },
     # 3: Thursday - Ice Blue & Cobalt
     {
         "name": "Ice Blue",
         "dark": "79c0ff",    # 9.60:1 on #0d1117
         "light": "0550ae",   # 6.90:1 on #ffffff
-        "capsule_accent": "1f6feb"
+        "capsule_accent": "1f6feb",
+        "capsule_light_mid": "0969da"
     },
     # 4: Friday - Lilac Indigo & Imperial Violet
     {
         "name": "Lilac Indigo",
         "dark": "d2a8ff",    # 9.30:1 on #0d1117
         "light": "6639ba",   # 6.80:1 on #ffffff
-        "capsule_accent": "7057ff"
+        "capsule_accent": "7057ff",
+        "capsule_light_mid": "8250df"
     },
     # 5: Saturday - Sapphire & Ocean Blue
     {
         "name": "Sapphire",
         "dark": "388bfd",    # 5.66:1 on #0d1117
         "light": "0860ca",   # 5.80:1 on #ffffff
-        "capsule_accent": "1f6feb"
+        "capsule_accent": "1f6feb",
+        "capsule_light_mid": "0969da"
     },
     # 6: Sunday - GitHub Electric & Classic Royal Blue
     {
         "name": "Electric Blue",
         "dark": "58a6ff",    # 7.49:1 on #0d1117
         "light": "0969da",   # 5.19:1 on #ffffff
-        "capsule_accent": "1f6feb"
+        "capsule_accent": "1f6feb",
+        "capsule_light_mid": "218bff"
     },
 ]
 
@@ -67,28 +74,62 @@ def rotate_theme(readme_path="README.md", day_override=None):
     dark_color = palette["dark"]
     light_color = palette["light"]
     capsule_accent = palette["capsule_accent"]
+    capsule_light_mid = palette.get("capsule_light_mid", light_color)
 
     print(f"Applying theme for day {day_idx} ({palette['name']}): dark=#{dark_color}, light=#{light_color}")
 
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 1. Update Capsule header waving banner
+    # 1. Update Capsule header waving banner (dark vs light)
+    def update_capsule_header_dark(match):
+        s = match.group(0)
+        s = re.sub(r'color=0:[0-9a-fA-F]{6},50:161b22,100:0d1117', f'color=0:{capsule_accent},50:161b22,100:0d1117', s)
+        s = re.sub(r'fontColor=[0-9a-fA-F]{6}', f'fontColor={dark_color}', s)
+        return s
+
+    def update_capsule_header_light(match):
+        s = match.group(0)
+        s = re.sub(r'color=0:[0-9a-fA-F]{6},50:[0-9a-fA-F]{6},100:f6f8fa', f'color=0:{light_color},50:{capsule_light_mid},100:f6f8fa', s)
+        s = re.sub(r'fontColor=[0-9a-fA-F]{6}', f'fontColor={light_color}', s)
+        return s
+
     content = re.sub(
-        r'color=0:[0-9a-fA-F]{6},50:161b22,100:0d1117',
-        f'color=0:{capsule_accent},50:161b22,100:0d1117',
+        r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*capsule-render\.vercel\.app/api\?[^"]*section=header[^"]*"',
+        update_capsule_header_dark,
         content
     )
     content = re.sub(
-        r'fontColor=[0-9a-fA-F]{6}',
-        f'fontColor={dark_color}',
+        r'<source media="\(prefers-color-scheme: light\)" srcset="[^"]*capsule-render\.vercel\.app/api\?[^"]*section=header[^"]*"',
+        update_capsule_header_light,
+        content
+    )
+    content = re.sub(
+        r'<img src="[^"]*capsule-render\.vercel\.app/api\?[^"]*section=header[^"]*"',
+        update_capsule_header_dark,
         content
     )
 
-    # 2. Update Typing SVG color
+    # 2. Update Typing SVG color (dark vs light)
+    def update_typing_dark(match):
+        return re.sub(r'color=[0-9a-fA-F]{6}', f'color={dark_color}', match.group(0))
+
+    def update_typing_light(match):
+        return re.sub(r'color=[0-9a-fA-F]{6}', f'color={light_color}', match.group(0))
+
     content = re.sub(
-        r'readme-typing-svg\.demolab\.com\?[^"]*color=[0-9a-fA-F]{6}',
-        lambda m: re.sub(r'color=[0-9a-fA-F]{6}', f'color={dark_color}', m.group(0)),
+        r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*readme-typing-svg\.demolab\.com\?[^"]*"',
+        update_typing_dark,
+        content
+    )
+    content = re.sub(
+        r'<source media="\(prefers-color-scheme: light\)" srcset="[^"]*readme-typing-svg\.demolab\.com\?[^"]*"',
+        update_typing_light,
+        content
+    )
+    content = re.sub(
+        r'<img src="[^"]*readme-typing-svg\.demolab\.com\?[^"]*"',
+        update_typing_dark,
         content
     )
 
@@ -238,6 +279,29 @@ def rotate_theme(readme_path="README.md", day_override=None):
     content = re.sub(
         r'<source media="\(prefers-color-scheme: light\)" srcset="[^"]*github-readme-leetcode-stats\.vercel\.app/api/card\?[^"]*"',
         update_lc_light,
+        content
+    )
+
+    # 7. Update Footer Capsule waving banner (dark vs light)
+    def update_capsule_footer_dark(match):
+        return re.sub(r'color=0:[0-9a-fA-F]{6},50:161b22,100:0d1117', f'color=0:{capsule_accent},50:161b22,100:0d1117', match.group(0))
+
+    def update_capsule_footer_light(match):
+        return re.sub(r'color=0:[0-9a-fA-F]{6},50:[0-9a-fA-F]{6},100:f6f8fa', f'color=0:{light_color},50:{capsule_light_mid},100:f6f8fa', match.group(0))
+
+    content = re.sub(
+        r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*capsule-render\.vercel\.app/api\?[^"]*section=footer[^"]*"',
+        update_capsule_footer_dark,
+        content
+    )
+    content = re.sub(
+        r'<source media="\(prefers-color-scheme: light\)" srcset="[^"]*capsule-render\.vercel\.app/api\?[^"]*section=footer[^"]*"',
+        update_capsule_footer_light,
+        content
+    )
+    content = re.sub(
+        r'<img src="[^"]*capsule-render\.vercel\.app/api\?[^"]*section=footer[^"]*"',
+        update_capsule_footer_dark,
         content
     )
 
