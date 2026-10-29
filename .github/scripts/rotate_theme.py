@@ -82,15 +82,16 @@ def rotate_theme(readme_path="README.md", day_override=None):
         content = f.read()
 
     # 1. Update Capsule header waving banner (dark vs light)
+    # NOTE: Commas in srcset URLs must be URL-encoded as %2C so HTML/Camo does not treat them as srcset separators
     def update_capsule_header_dark(match):
         s = match.group(0)
-        s = re.sub(r'color=0:[0-9a-fA-F]{6},50:161b22,100:0d1117', f'color=0:{capsule_accent},50:161b22,100:0d1117', s)
+        s = re.sub(r'color=0:[0-9a-fA-F]{6}(?:,|%2C)50:161b22(?:,|%2C)100:0d1117', f'color=0:{capsule_accent}%2C50:161b22%2C100:0d1117', s)
         s = re.sub(r'fontColor=[0-9a-fA-F]{6}', f'fontColor={dark_color}', s)
         return s
 
     def update_capsule_header_light(match):
         s = match.group(0)
-        s = re.sub(r'color=0:[0-9a-fA-F]{6},50:[0-9a-fA-F]{6},100:f6f8fa', f'color=0:{light_color},50:{capsule_light_mid},100:f6f8fa', s)
+        s = re.sub(r'color=0:[0-9a-fA-F]{6}(?:,|%2C)50:[0-9a-fA-F]{6}(?:,|%2C)100:f6f8fa', f'color=0:{light_color}%2C50:{capsule_light_mid}%2C100:f6f8fa', s)
         s = re.sub(r'fontColor=[0-9a-fA-F]{6}', f'fontColor={light_color}', s)
         return s
 
@@ -283,11 +284,12 @@ def rotate_theme(readme_path="README.md", day_override=None):
     )
 
     # 7. Update Footer Capsule waving banner (dark vs light)
+    # NOTE: Commas in srcset URLs must be URL-encoded as %2C so HTML/Camo does not treat them as srcset separators
     def update_capsule_footer_dark(match):
-        return re.sub(r'color=0:[0-9a-fA-F]{6},50:161b22,100:0d1117', f'color=0:{capsule_accent},50:161b22,100:0d1117', match.group(0))
+        return re.sub(r'color=0:[0-9a-fA-F]{6}(?:,|%2C)50:161b22(?:,|%2C)100:0d1117', f'color=0:{capsule_accent}%2C50:161b22%2C100:0d1117', match.group(0))
 
     def update_capsule_footer_light(match):
-        return re.sub(r'color=0:[0-9a-fA-F]{6},50:[0-9a-fA-F]{6},100:f6f8fa', f'color=0:{light_color},50:{capsule_light_mid},100:f6f8fa', match.group(0))
+        return re.sub(r'color=0:[0-9a-fA-F]{6}(?:,|%2C)50:[0-9a-fA-F]{6}(?:,|%2C)100:f6f8fa', f'color=0:{light_color}%2C50:{capsule_light_mid}%2C100:f6f8fa', match.group(0))
 
     content = re.sub(
         r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*capsule-render\.vercel\.app/api\?[^"]*section=footer[^"]*"',

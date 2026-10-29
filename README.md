@@ -2,9 +2,9 @@
 
 <a href="https://github.com/blackscythe123">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=d2a8ff&fontAlignY=70&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6639ba,50:8250df,100:f6f8fa&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=6639ba&fontAlignY=70&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff,50:161b22,100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=d2a8ff&fontAlignY=70&animation=fadeIn" width="100%" alt="Simiyon Vinscent Samuel" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff%2C50:161b22%2C100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=d2a8ff&fontAlignY=70&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6639ba%2C50:8250df%2C100:f6f8fa&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=6639ba&fontAlignY=70&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff%2C50:161b22%2C100:0d1117&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontColor=d2a8ff&fontAlignY=70&animation=fadeIn" width="100%" alt="Simiyon Vinscent Samuel" />
   </picture>
 </a>
 
@@ -80,11 +80,11 @@
     <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=d2a8ff&icon_color=d2a8ff&ring_color=d2a8ff" height="165" alt="GitHub Stats" />
   </picture>
 </a>
-<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2">
+<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=6639ba&theme=default&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" />
-    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html,jupyter%20notebook&bg_color=00000000&v=2" height="165" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=6639ba&theme=default&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2" />
+    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2" height="165" alt="Top Languages" />
   </picture>
 </a>
 
@@ -222,9 +222,9 @@
 <sub>Crafted with focus · [@blackscythe123](https://github.com/blackscythe123)</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff,50:161b22,100:0d1117&height=70&section=footer&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6639ba,50:8250df,100:f6f8fa&height=70&section=footer&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff,50:161b22,100:0d1117&height=70&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff%2C50:161b22%2C100:0d1117&height=70&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6639ba%2C50:8250df%2C100:f6f8fa&height=70&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7057ff%2C50:161b22%2C100:0d1117&height=70&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
 </picture>
 
 </div>
