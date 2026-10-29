@@ -92,13 +92,13 @@ def rotate_theme(readme_path="README.md", day_override=None):
         content
     )
 
-    # 3. Update Streak Card (Ring, text, and numbers follow theme, flame stays orange)
+    # 3. Update Streak Card (Center flame, ring, and streak number stay ORANGE; side labels violet, side numbers white)
     def update_streak_dark(match):
         s = match.group(0)
         s = re.sub(r'&ring_color=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&text_color=[0-9a-fA-F]{6}', '', s)
-        s = s.replace('timezone=Asia/Kolkata', f'timezone=Asia/Kolkata&ring_color={dark_color}&title_color={dark_color}&text_color={dark_color}')
+        s = s.replace('timezone=Asia/Kolkata', f'timezone=Asia/Kolkata&title_color={dark_color}&text_color=ffffff')
         return s
 
     def update_streak_light(match):
@@ -106,7 +106,7 @@ def rotate_theme(readme_path="README.md", day_override=None):
         s = re.sub(r'&ring_color=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&text_color=[0-9a-fA-F]{6}', '', s)
-        s = s.replace('timezone=Asia/Kolkata', f'timezone=Asia/Kolkata&ring_color={light_color}&title_color={light_color}&text_color={light_color}')
+        s = s.replace('timezone=Asia/Kolkata', f'timezone=Asia/Kolkata&title_color={light_color}&text_color=151515')
         return s
 
     content = re.sub(
@@ -187,21 +187,42 @@ def rotate_theme(readme_path="README.md", day_override=None):
         content
     )
 
-    # 6. Update LeetCode card (enlarge to 800px and sync ring/numbers)
+    # 6. Update LeetCode card
+    # Flame, streak ring, streak number, and Current Streak label stay strictly ORANGE (#FFA500)
+    # Solved progress ring and divider stroke use theme accent
+    # Side numbers use crisp white / dark, side labels use theme accent
     def update_lc_dark(match):
         s = match.group(0)
+        s = re.sub(r'&fire=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&currStreakNum=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&currStreakLabel=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&ring=[0-9a-fA-F]{6}', '', s)
-        s = re.sub(r'&sideNums=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&stroke=[0-9a-fA-F]{6}', '', s)
-        s = s.replace('border_radius=12', f'border_radius=12&ring={dark_color}&sideNums={dark_color}&stroke={dark_color}')
+        s = re.sub(r'&sideNums=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&sideLabels=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&dates=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&v=\d+', '', s)
+        s = s.replace(
+            'border_radius=12',
+            f'border_radius=12&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&ring={dark_color}&stroke={dark_color}&sideNums=ffffff&sideLabels={dark_color}&dates=8b949e&v=3'
+        )
         return s
 
     def update_lc_light(match):
         s = match.group(0)
+        s = re.sub(r'&fire=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&currStreakNum=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&currStreakLabel=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&ring=[0-9a-fA-F]{6}', '', s)
-        s = re.sub(r'&sideNums=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&stroke=[0-9a-fA-F]{6}', '', s)
-        s = s.replace('border_radius=12', f'border_radius=12&ring={light_color}&sideNums={light_color}&stroke={light_color}')
+        s = re.sub(r'&sideNums=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&sideLabels=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&dates=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&v=\d+', '', s)
+        s = s.replace(
+            'border_radius=12',
+            f'border_radius=12&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&ring={light_color}&stroke={light_color}&sideNums=151515&sideLabels={light_color}&dates=57606a&v=3'
+        )
         return s
 
     content = re.sub(
@@ -211,7 +232,7 @@ def rotate_theme(readme_path="README.md", day_override=None):
     )
     content = re.sub(
         r'<img src="[^"]*github-readme-leetcode-stats\.vercel\.app/api/card\?[^"]*"[^>]*',
-        lambda m: update_lc_dark(m).replace('width="520"', 'width="800"'),
+        lambda m: re.sub(r'width="\d+"', 'width="770"', update_lc_dark(m)),
         content
     )
     content = re.sub(
