@@ -74,7 +74,6 @@ def rotate_theme(readme_path="README.md", day_override=None):
         content = f.read()
 
     # 1. Update Capsule header waving banner
-    # https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117...fontColor=58a6ff
     content = re.sub(
         r'color=0:[0-9a-fA-F]{6},50:161b22,100:0d1117',
         f'color=0:{capsule_accent},50:161b22,100:0d1117',
@@ -87,18 +86,48 @@ def rotate_theme(readme_path="README.md", day_override=None):
     )
 
     # 2. Update Typing SVG color
-    # color=58A6FF
     content = re.sub(
         r'readme-typing-svg\.demolab\.com\?[^"]*color=[0-9a-fA-F]{6}',
         lambda m: re.sub(r'color=[0-9a-fA-F]{6}', f'color={dark_color}', m.group(0)),
         content
     )
 
-    # 3. Update GitHub stats card
-    # In dark media query: ensure title_color, icon_color, ring_color match dark_color
+    # 3. Update Streak Card (Ring, text, and numbers follow theme, flame stays orange)
+    def update_streak_dark(match):
+        s = match.group(0)
+        s = re.sub(r'&ring_color=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&text_color=[0-9a-fA-F]{6}', '', s)
+        s = s.replace('timezone=Asia/Kolkata', f'timezone=Asia/Kolkata&ring_color={dark_color}&title_color={dark_color}&text_color={dark_color}')
+        return s
+
+    def update_streak_light(match):
+        s = match.group(0)
+        s = re.sub(r'&ring_color=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&text_color=[0-9a-fA-F]{6}', '', s)
+        s = s.replace('timezone=Asia/Kolkata', f'timezone=Asia/Kolkata&ring_color={light_color}&title_color={light_color}&text_color={light_color}')
+        return s
+
+    content = re.sub(
+        r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*stats-blackscythe123\.vercel\.app/api/streak\?[^"]*"',
+        update_streak_dark,
+        content
+    )
+    content = re.sub(
+        r'<img src="[^"]*stats-blackscythe123\.vercel\.app/api/streak\?[^"]*"',
+        update_streak_dark,
+        content
+    )
+    content = re.sub(
+        r'<source media="\(prefers-color-scheme: light\)" srcset="[^"]*stats-blackscythe123\.vercel\.app/api/streak\?[^"]*"',
+        update_streak_light,
+        content
+    )
+
+    # 4. Update GitHub stats card
     def update_stats_dark(match):
         s = match.group(0)
-        # remove old title/icon/ring color params if present, then add new ones
         s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&icon_color=[0-9a-fA-F]{6}', '', s)
         s = re.sub(r'&ring_color=[0-9a-fA-F]{6}', '', s)
@@ -113,20 +142,6 @@ def rotate_theme(readme_path="README.md", day_override=None):
         s = s.replace('include_all_commits=true', f'include_all_commits=true&title_color={light_color}&icon_color={light_color}&ring_color={light_color}')
         return s
 
-    # 4. Update Top Languages card
-    def update_langs_dark(match):
-        s = match.group(0)
-        s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
-        s = s.replace('layout=compact', f'layout=compact&title_color={dark_color}')
-        return s
-
-    def update_langs_light(match):
-        s = match.group(0)
-        s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
-        s = s.replace('layout=compact', f'layout=compact&title_color={light_color}')
-        return s
-
-    # Regex targeting dark vs light sources
     content = re.sub(
         r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*stats-blackscythe123\.vercel\.app/api\?[^"]*"',
         update_stats_dark,
@@ -143,6 +158,19 @@ def rotate_theme(readme_path="README.md", day_override=None):
         content
     )
 
+    # 5. Update Top Languages card
+    def update_langs_dark(match):
+        s = match.group(0)
+        s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
+        s = s.replace('layout=compact', f'layout=compact&title_color={dark_color}')
+        return s
+
+    def update_langs_light(match):
+        s = match.group(0)
+        s = re.sub(r'&title_color=[0-9a-fA-F]{6}', '', s)
+        s = s.replace('layout=compact', f'layout=compact&title_color={light_color}')
+        return s
+
     content = re.sub(
         r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*stats-blackscythe123\.vercel\.app/api/top-langs\?[^"]*"',
         update_langs_dark,
@@ -156,6 +184,39 @@ def rotate_theme(readme_path="README.md", day_override=None):
     content = re.sub(
         r'<source media="\(prefers-color-scheme: light\)" srcset="[^"]*stats-blackscythe123\.vercel\.app/api/top-langs\?[^"]*"',
         update_langs_light,
+        content
+    )
+
+    # 6. Update LeetCode card (enlarge to 800px and sync ring/numbers)
+    def update_lc_dark(match):
+        s = match.group(0)
+        s = re.sub(r'&ring=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&sideNums=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&stroke=[0-9a-fA-F]{6}', '', s)
+        s = s.replace('border_radius=12', f'border_radius=12&ring={dark_color}&sideNums={dark_color}&stroke={dark_color}')
+        return s
+
+    def update_lc_light(match):
+        s = match.group(0)
+        s = re.sub(r'&ring=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&sideNums=[0-9a-fA-F]{6}', '', s)
+        s = re.sub(r'&stroke=[0-9a-fA-F]{6}', '', s)
+        s = s.replace('border_radius=12', f'border_radius=12&ring={light_color}&sideNums={light_color}&stroke={light_color}')
+        return s
+
+    content = re.sub(
+        r'<source media="\(prefers-color-scheme: dark\)" srcset="[^"]*github-readme-leetcode-stats\.vercel\.app/api/card\?[^"]*"',
+        update_lc_dark,
+        content
+    )
+    content = re.sub(
+        r'<img src="[^"]*github-readme-leetcode-stats\.vercel\.app/api/card\?[^"]*"[^>]*',
+        lambda m: update_lc_dark(m).replace('width="520"', 'width="800"'),
+        content
+    )
+    content = re.sub(
+        r'<source media="\(prefers-color-scheme: light\)" srcset="[^"]*github-readme-leetcode-stats\.vercel\.app/api/card\?[^"]*"',
+        update_lc_light,
         content
     )
 

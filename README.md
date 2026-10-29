@@ -57,9 +57,9 @@
 
 <a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true&timezone=Asia/Kolkata">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true&timezone=Asia/Kolkata" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true&timezone=Asia/Kolkata" />
-    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true&timezone=Asia/Kolkata" height="165" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true&timezone=Asia/Kolkata&ring_color=d2a8ff&title_color=d2a8ff&text_color=d2a8ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true&timezone=Asia/Kolkata&ring_color=6639ba&title_color=6639ba&text_color=6639ba" />
+    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=transparent&hide_border=true&timezone=Asia/Kolkata&ring_color=d2a8ff&title_color=d2a8ff&text_color=d2a8ff" height="165" alt="GitHub Streak" />
   </picture>
 </a>
 <br/>
@@ -83,9 +83,9 @@
 <!-- LeetCode Compact Card -->
 <a href="https://github-readme-leetcode-stats.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&v=2" />
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&v=2" width="520" alt="LeetCode Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&ring=d2a8ff&sideNums=d2a8ff&stroke=d2a8ff&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&ring=6639ba&sideNums=6639ba&stroke=6639ba&v=2" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=transparent&hide_border=true&border_radius=12&ring=d2a8ff&sideNums=d2a8ff&stroke=d2a8ff&v=2" width="800" alt="LeetCode Stats" />
   </picture>
 </a>
 
