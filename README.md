@@ -9,10 +9,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/simiyonvinscentsamuel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://simiyonvinscentsamuel.tech"><img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:samsamuel234567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/blackscythe123"><img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/simiyonvinscentsamuel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://simiyonvinscentsamuel.tech"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:samsamuel234567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/blackscythe123"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<!-- Live Verified Engineering Metrics -->
+<p align="center">
+<!--START_SECTION:waka-->
+  <a href="https://wakatime.com/@blackscythe123"><img src="https://img.shields.io/badge/Code_Time-498_hrs_20_mins-0052CC?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time" /></a>
+  <a href="https://github.com/blackscythe123"><img src="https://img.shields.io/badge/Lines_Crafted-12.01M_LOC-107C41?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Lines of code" /></a>
+<!--END_SECTION:waka-->
+  <a href="https://github.com/blackscythe123?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fblackscythe123&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&logoColor=white&color=161b22" alt="Public Repositories" /></a>
+  <a href="https://github.com/blackscythe123?tab=repositories&q=&sort=stargazers"><img src="https://img.shields.io/github/stars/blackscythe123?style=flat-square&logo=github&color=D4AF37&label=Stars" alt="Public Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=blackscythe123&label=Profile+Views&style=flat-square&color=0052CC" alt="Profile Views" />
 </p>
 
 **Songs & Thoughts on My Mind**
@@ -82,17 +93,7 @@
   </picture>
 </a>
 
-<br/><br/>
 
-<!-- Live Dynamic Metrics (Daily & Real-Time Sync) -->
-<p align="center">
-<!--START_SECTION:waka-->
-  <a href="https://wakatime.com/@blackscythe123"><img src="https://img.shields.io/badge/Code_Time-498_hrs_20_mins-0052CC?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time" /></a>
-  <a href="https://github.com/blackscythe123"><img src="https://img.shields.io/badge/Lines_Crafted-12.01M_LOC-107C41?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Lines of code" /></a>
-<!--END_SECTION:waka-->
-  <a href="https://github.com/blackscythe123?tab=repositories&q=&sort=stargazers"><img src="https://img.shields.io/github/stars/blackscythe123?style=flat-square&logo=github&color=D4AF37&label=Stars" alt="Public Stars" /></a>
-  <a href="https://github.com/blackscythe123?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fblackscythe123&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&logoColor=white&color=161b22" alt="Public Repositories" /></a>
-</p>
 
 </div>
 
