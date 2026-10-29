@@ -32,11 +32,7 @@
   <tr>
     <td align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&redirect=true">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&bar_color=1db954&bar_color_cover=false&mode=light" />
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&bar_color=106010&bar_color_cover=false&mode=dark" width="400" alt="Now playing on Spotify" />
-        </picture>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" width="400" alt="spotify-github-profile" />
       </a>
     </td>
     <td align="center">
