@@ -40,7 +40,11 @@
   <tr>
     <td align="center">
       <a href="https://spotify-github-profile.kittinanx.com">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" width="400" alt="spotify-github-profile" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&mode=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&mode=light" />
+          <img src="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&mode=dark" width="400" alt="spotify-github-profile" />
+        </picture>
       </a>
     </td>
     <td align="center">
