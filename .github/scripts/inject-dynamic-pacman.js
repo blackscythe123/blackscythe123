@@ -254,6 +254,7 @@ function generateKeyframesCSS(isLight = false, totalDuration = 150) {
   const startIndex = (slot * 7 + 6) % n;
   const activePalettes = [...palettes.slice(startIndex), ...palettes.slice(0, startIndex)];
 
+  let dotKfs = '';
   let wallKfs = '';
   let textKfs = '';
 
@@ -263,6 +264,7 @@ function generateKeyframesCSS(isLight = false, totalDuration = 150) {
     const wallCol = isLight ? pal.light_wall : pal.dark_wall;
     const textCol = isLight ? pal.light_text : pal.dark_text;
 
+    dotKfs += '    ' + p1 + '%, ' + p2 + '% { fill: #' + wallCol + '; }\n';
     wallKfs += '    ' + p1 + '%, ' + p2 + '% { fill: #' + wallCol + '; }\n';
     textKfs += '    ' + p1 + '%, ' + p2 + '% { fill: #' + textCol + '; }\n';
   });
@@ -271,6 +273,7 @@ function generateKeyframesCSS(isLight = false, totalDuration = 150) {
   const firstWall = isLight ? firstPal.light_wall : firstPal.dark_wall;
   const firstText = isLight ? firstPal.light_text : firstPal.dark_text;
 
+  dotKfs += '    100% { fill: #' + firstWall + '; }\n';
   wallKfs += '    100% { fill: #' + firstWall + '; }\n';
   textKfs += '    100% { fill: #' + firstText + '; }\n';
 
@@ -278,10 +281,16 @@ function generateKeyframesCSS(isLight = false, totalDuration = 150) {
 
   return `
     <style>
+      @keyframes ${animPrefix}_dot {
+${dotKfs}      }
       @keyframes ${animPrefix}_wall {
 ${wallKfs}      }
       @keyframes ${animPrefix}_text {
 ${textKfs}      }
+      .dot-lvl-1 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 0.30; }
+      .dot-lvl-2 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 0.55; }
+      .dot-lvl-3 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 0.80; }
+      .dot-lvl-4 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 1.00; }
       rect[id^="wh-"], rect[id^="wv-"] {
         animation: ${animPrefix}_wall ${totalDuration}s linear infinite !important;
       }
@@ -290,6 +299,49 @@ ${textKfs}      }
       }
     </style>
   `;
+}
+
+function transformDots(content, isLight = false) {
+  const levelMap = isLight ? {
+    '#cfe8ff': 1,
+    '#9fd1ff': 2,
+    '#61dafb': 3,
+    '#2196f3': 4
+  } : {
+    '#1e6679': 1,
+    '#1897b4': 2,
+    '#00ddff': 3,
+    '#00ffff': 4
+  };
+
+  const emptyFill = isLight ? '#f5faff' : '#161b22';
+  const bgSlotFill = isLight ? '#ebedf0' : '#161b22';
+
+  const cellRegex = /<rect id="(c-\d+-\d+)" x="([^"]+)" y="([^"]+)" width="([^"]+)" height="([^"]+)" rx="([^"]+)"[^>]*>([\s\S]*?)<\/rect>/g;
+
+  return content.replace(cellRegex, (match, cid, x, y, w, h, rx, inner) => {
+    const animMatch = inner.match(/<animate attributeName="fill"[^>]*values="([^"]+)"[^>]*keyTimes="([^"]+)"[^>]*\/>/);
+    if (!animMatch) {
+      return match;
+    }
+
+    const valuesStr = animMatch[1];
+    const keytimesStr = animMatch[2];
+    const durMatch = inner.match(/dur="([^"]+)"/);
+    const dur = durMatch ? durMatch[1] : '255200ms';
+
+    const initialColor = valuesStr.split(';')[0];
+    const level = levelMap[initialColor] || 0;
+
+    if (level === 0 || valuesStr.split(';').length <= 2) {
+      return `<rect id="${cid}" x="${x}" y="${y}" width="${w}" height="${h}" rx="${rx}" fill="${emptyFill}"/>`;
+    }
+
+    const bgRect = `<rect id="bg-${cid}" x="${x}" y="${y}" width="${w}" height="${h}" rx="${rx}" fill="${bgSlotFill}"/>`;
+    const dotRect = `<rect id="${cid}" class="dot-lvl-${level}" x="${x}" y="${y}" width="${w}" height="${h}" rx="${rx}">\n\t\t\t\t<animate attributeName="visibility" dur="${dur}" repeatCount="indefinite" values="visible;visible;hidden;hidden" keyTimes="${keytimesStr}"/>\n\t\t\t</rect>`;
+
+    return bgRect + '\n\t\t\t' + dotRect;
+  });
 }
 
 function injectDynamicTheme(filePath, isLight = false) {
@@ -302,6 +354,9 @@ function injectDynamicTheme(filePath, isLight = false) {
   // Remove any previously injected dyn_<theme> style tags
   content = content.replace(/<style>[\s\S]*?dyn_(?:dark|light)_[\s\S]*?<\/style>/g, '');
 
+  // Transform dots into synchronized dynamic dots with visibility eating
+  content = transformDots(content, isLight);
+
   const styleBlock = generateKeyframesCSS(isLight);
 
   if (content.includes('</defs>')) {
@@ -311,7 +366,7 @@ function injectDynamicTheme(filePath, isLight = false) {
   }
 
   fs.writeFileSync(filePath, content, 'utf8');
-  console.log(`Successfully injected synchronized dynamic theme into ${filePath} (isLight=${isLight})`);
+  console.log(`Successfully injected synchronized dynamic theme + dots into ${filePath} (isLight=${isLight})`);
 }
 
 function main() {
@@ -326,4 +381,4 @@ if (require.main === module) {
   main();
 }
 
-module.exports = { injectDynamicTheme, generateKeyframesCSS };
+module.exports = { injectDynamicTheme, generateKeyframesCSS, transformDots };
