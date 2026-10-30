@@ -10,11 +10,11 @@
 
 ### Engineering Student · Full-Stack Developer · Mobile & AI Systems Builder
 
-<a href="https://git.io/typing-svg">
+<a href="https://readme-typing-svg-sigma.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=d2a8ff&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6639ba&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=d2a8ff&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_dark&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_light&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India" />
+    <img src="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_dark&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -78,11 +78,11 @@
     <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true" height="165" alt="GitHub Stats" />
   </picture>
 </a>
-<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=github_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2">
+<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=6639ba&theme=default&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2" />
-    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&title_color=d2a8ff&theme=github_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=2" height="165" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_light&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000" />
+    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000" height="165" alt="Top Languages" />
   </picture>
 </a>
 
