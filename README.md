@@ -27,52 +27,8 @@
 
 <!-- Live Verified Engineering Metrics -->
 <p align="center">
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2054%20mins-blue?style=flat-square)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-451%20hrs%2017%20mins-blue?style=flat-square)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.11%20million%20lines%20of%20code-blue?style=flat-square)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 hrs 52 mins (80.3%)
-
-✍️ 0 lines written by AI, 12,680 lines written by hand (0.0% AI-written)
-
-🔤 128,178 Input Tokens, 9,101 Output Tokens
-
-💵 $0.37 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 163 AI Prompts
-
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 327 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               32 repos            ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-JavaScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-```
-
-
-
-
- Last Updated on 30/10/2026 03:21:38 UTC
-<!--END_SECTION:waka-->
+  <a href="https://wakatime.com/@blackscythe123"><img src="https://img.shields.io/badge/Code_Time-500_hrs_54_mins-0052CC?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time" /></a>
+  <a href="https://github.com/blackscythe123"><img src="https://img.shields.io/badge/Lines_Crafted-12.11M_LOC-107C41?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Lines of code" /></a>
   <a href="https://github.com/blackscythe123?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fblackscythe123&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&logoColor=white&color=161b22" alt="Public Repositories" /></a>
   <a href="https://github.com/blackscythe123?tab=repositories&q=&sort=stargazers"><img src="https://img.shields.io/github/stars/blackscythe123?style=flat-square&logo=github&color=D4AF37&label=Stars" alt="Public Stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=blackscythe123&label=Profile+Views&style=flat-square&color=0052CC" alt="Profile Views" />
