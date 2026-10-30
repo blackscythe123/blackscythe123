@@ -221,9 +221,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/pacman-contribution-graph-light.svg" />
+  <img src="https://raw.githubusercontent.com/blackscythe123/blackscythe123/main/dist/pacman-contribution-graph-dark.svg" alt="GitHub Contribution Pacman" />
 </picture>
 
 <br/>

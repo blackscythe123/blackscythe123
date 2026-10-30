@@ -1,39 +1,62 @@
-name: Generate Contribution Snake
+name: Generate Contribution Pacman
 
 on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
   push:
     branches:
       - main
-  schedule:
-    - cron: '0 0 * * *'  # run daily at midnight UTC
+    paths:
+      - '.github/workflows/snake.yml'
+      - '.github/scripts/**'
 
 jobs:
-  generate_snake:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Generate Contribution Snake Graph
-        uses: Platane/snk@v3.3.0
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Increase Node memory
+        run: echo "NODE_OPTIONS=--max-old-space-size=8192" >> $GITHUB_ENV
+
+      - name: Generate pacman graph (light & dark)
+        uses: DuyetBKU/viz-pacman-github-profile@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=800080&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-      - name: Commit and Push generated snake files
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: react-dark
+          music: 'false'
+
+      - name: Inject Synchronized Dynamic Colors
+        run: node .github/scripts/inject-dynamic-pacman.js
+
+      - name: Commit and Push generated pacman files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/
+          git add dist/pacman-contribution-graph-*.svg
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update snake images [skip ci]"
+            git commit -m "chore: update dynamic pacman contribution graphs [skip ci]"
             git push
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/upload-artifact@v4
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
         with:
-          name: snake-images
+          name: pacman-images
           path: dist/
