@@ -88,12 +88,19 @@
 
 <br/><br/>
 
-<!-- LeetCode Compact Card -->
+<!-- LeetCode Dual Symmetric Cards -->
 <a href="https://leetcode.com/u/blackscythe123/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=dynamic_light&transparent=true&hide_border=true&border_radius=12" />
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12" width="770" alt="LeetCode Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_light&transparent=true&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12" height="195" alt="LeetCode Solved" />
+  </picture>
+</a>
+<a href="https://leetcode.com/u/blackscythe123/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_light&transparent=true&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12" height="195" alt="LeetCode Streak" />
   </picture>
 </a>
 
