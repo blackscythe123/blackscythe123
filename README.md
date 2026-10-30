@@ -132,6 +132,9 @@
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
 [![ReactFlow](https://img.shields.io/badge/ReactFlow-FF0072?style=flat-square&logo=react&logoColor=white)](https://github.com/blackscythe123/workflow_space)
 [![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)](https://github.com/blackscythe123/ExpenseIQ)
+[![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)](https://github.com/blackscythe123/Velura)
+[![Spline](https://img.shields.io/badge/Spline-000000?style=flat-square&logo=spline&logoColor=white)](https://github.com/blackscythe123/Velura)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
 
 <br/>
 
@@ -144,6 +147,10 @@
 [![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)](https://github.com/blackscythe123/CIHC)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://github.com/blackscythe123/faceguard)
 [![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payloadcms&logoColor=white)](https://github.com/blackscythe123/payload-cms-cc)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://github.com/blackscythe123/voice-call-agent)
+[![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat-square&logo=livekit&logoColor=white)](https://github.com/blackscythe123/live-translate)
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)](https://github.com/blackscythe123/CareConnect)
 
 <br/>
 
@@ -155,6 +162,7 @@
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/blackscythe123/soundwave)
 [![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/blackscythe123/OutPass)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/blackscythe123/voxa)
+[![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)](https://github.com/blackscythe123/Void-Fill)
 
 <br/>
 
@@ -177,6 +185,9 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/blackscythe123/my_portfolio)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGOTkwMCI+PHBhdGggZD0iTTE4Ljc1IDE2LjVjLTIuOCAyLTYuNiAzLjEtMTAuMiAzLjEtNC44IDAtOS4yLTEuOC0xMi41LTQuOC0uMy0uMy0uMi0uNy4xLS45bDEuMy0xLjNjLjMtLjMuNy0uMiAxIC4xIDIuNyAyLjQgNi4zIDMuOSAxMC4zIDMuOSAyLjkgMCA2LjEtLjkgOC41LTIuNS4zLS4yLjgtLjIgMS4xLjJsMS4yIDEuNGMuMy4zLjIuOC0uMiAxLjF6Ii8+PC9zdmc+)](https://github.com/blackscythe123/flashbook)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)](https://github.com/blackscythe123/CIS)
+[![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/blackscythe123/Void-Fill)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/blackscythe123/voice-call-agent)
 
 <br/>
 
@@ -190,6 +201,9 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/blackscythe123/IRSE)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/blackscythe123/track_my_crypto)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/blackscythe123/IRSE)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)](https://github.com/blackscythe123/voice-call-agent)
+[![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/blackscythe123/Void-Fill)
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/blackscythe123/agri-truth-chain)
 
 <br/>
 
@@ -213,6 +227,8 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
 [![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://github.com/blackscythe123/openclaude)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/blackscythe123/ShellQuest)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://github.com/blackscythe123/sarvam-burner)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://github.com/blackscythe123/CIS)
 
 </div>
 
