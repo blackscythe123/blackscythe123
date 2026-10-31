@@ -39,16 +39,16 @@
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=9" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=light&amp;v=9" />
-      <img src="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=9" width="380" height="174" align="middle" alt="spotify-github-profile" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=11" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=light&amp;v=11" />
+      <img src="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=11" width="360" align="middle" alt="spotify-github-profile" />
     </picture>
   </a>
   <a href="https://pet.simiyonvinscentsamuel.tech">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&amp;theme=dark&amp;label=blackscythe123&amp;radius=40&amp;bg=transparent&amp;border=false" />
       <source media="(prefers-color-scheme: light)" srcset="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&amp;label=blackscythe123&amp;radius=40&amp;bg=transparent&amp;border=false" />
-      <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&amp;label=blackscythe123&amp;radius=40" width="380" height="174" align="middle" alt="coding status" />
+      <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=478541b075458933469a757b7444da4b&amp;label=blackscythe123&amp;radius=40" width="360" align="middle" alt="coding status" />
     </picture>
   </a>
 </p>
