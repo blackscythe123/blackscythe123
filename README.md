@@ -27,7 +27,7 @@
 
 <!-- Live Verified Engineering Metrics -->
 <p align="center">
-  <a href="https://wakatime.com/@blackscythe123"><img src="https://img.shields.io/badge/Code_Time-577_hrs_54_mins-0052CC?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time" /></a>
+  <a href="https://wakatime.com/@blackscythe123"><img src="https://img.shields.io/badge/Code_Time-578_hrs_18_mins-0052CC?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time" /></a>
   <a href="https://github.com/blackscythe123"><img src="https://img.shields.io/badge/Lines_Crafted-2.63M_LOC-107C41?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Lines of code" /></a>
   <a href="https://github.com/blackscythe123?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-38-161b22?style=flat-square&logo=github&logoColor=white" alt="Public Repositories" /></a>
   <a href="https://github.com/blackscythe123?tab=repositories&q=&sort=stargazers"><img src="https://img.shields.io/github/stars/blackscythe123?style=flat-square&logo=github&color=D4AF37&label=Stars" alt="Public Stars" /></a>
