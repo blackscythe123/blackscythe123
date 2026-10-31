@@ -246,9 +246,9 @@ const palettes = [
 
 function generateKeyframesCSS(isLight = false, _totalDuration = 150) {
   const n = palettes.length;
-  // Daily synchronized coprime lockstep (matches microservices lockstep exactly)
-  const slot = Math.floor(Date.now() / (24 * 60 * 60 * 1000));
-  const startIndex = (slot * 7 + 6) % n;
+  // 10-minute synchronized coprime rotation
+  const bucket = Math.floor(Date.now() / (10 * 60 * 1000));
+  const startIndex = (bucket * 7 + 11) % n;
   const pal = palettes[startIndex];
 
   const wallCol = isLight ? pal.light_wall : pal.dark_wall;
