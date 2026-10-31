@@ -2,9 +2,9 @@
 
 <a href="https://github.com/blackscythe123">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontAlignY=70&animation=fadeIn&v=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_light&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontAlignY=70&animation=fadeIn&v=9" />
-    <img src="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontAlignY=70&animation=fadeIn&v=9" width="100%" alt="Simiyon Vinscent Samuel" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontAlignY=70&animation=fadeIn&v=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_light&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontAlignY=70&animation=fadeIn&v=12" />
+    <img src="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=120&section=header&text=Simiyon%20Vinscent%20Samuel&fontSize=36&fontAlignY=70&animation=fadeIn&v=12" width="100%" alt="Simiyon Vinscent Samuel" />
   </picture>
 </a>
 
@@ -12,9 +12,9 @@
 
 <a href="https://readme-typing-svg-sigma.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_dark&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India&v=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_light&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India&v=9" />
-    <img src="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_dark&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India&v=9" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_dark&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India&v=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_light&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India&v=12" />
+    <img src="https://readme-typing-svg-sigma.vercel.app/?font=Fira+Code&size=16&pause=1000&theme=dynamic_dark&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Fine-tuning+AI+models+%26+agentic+systems;Open+source+contributor+from+India&v=12" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -39,9 +39,9 @@
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=11" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=light&amp;v=11" />
-      <img src="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=11" width="360" align="middle" alt="spotify-github-profile" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=12" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=light&amp;v=12" />
+      <img src="https://readme-typing-svg-sigma.vercel.app/api/spotify?uid=31etltg6vyg4f4vkhx734rhlamse&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ffffff&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;v=12" width="360" align="middle" alt="spotify-github-profile" />
     </picture>
   </a>
   <a href="https://pet.simiyonvinscentsamuel.tech">
@@ -61,26 +61,26 @@
 
 <div align="center">
 
-<a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=9">
+<a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=12">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_light&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=9" />
-    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=9" height="165" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_light&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=12" />
+    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=12" height="165" alt="GitHub Streak" />
   </picture>
 </a>
 <br/>
-<a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=9">
+<a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=12">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_light&hide_border=true&bg_color=00000000&include_all_commits=true&v=9" />
-    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=9" height="165" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_light&hide_border=true&bg_color=00000000&include_all_commits=true&v=12" />
+    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=12" height="165" alt="GitHub Stats" />
   </picture>
 </a>
-<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=9">
+<a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=12">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_light&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=9" />
-    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=9" height="165" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_light&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=12" />
+    <img src="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=12" height="165" alt="Top Languages" />
   </picture>
 </a>
 
@@ -89,16 +89,16 @@
 <!-- LeetCode Dual Symmetric Cards -->
 <a href="https://leetcode.com/u/blackscythe123/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_light&transparent=true&hide_border=true&border_radius=12&v=9" />
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=9" height="195" alt="LeetCode Solved" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_light&transparent=true&hide_border=true&border_radius=12&v=12" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=12" height="195" alt="LeetCode Solved" />
   </picture>
 </a>
 <a href="https://leetcode.com/u/blackscythe123/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_light&transparent=true&hide_border=true&border_radius=12&v=9" />
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=9" height="195" alt="LeetCode Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_light&transparent=true&hide_border=true&border_radius=12&v=12" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=streak&theme=dynamic_dark&transparent=true&hide_border=true&border_radius=12&v=12" height="195" alt="LeetCode Streak" />
   </picture>
 </a>
 
@@ -231,9 +231,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/api/pacman?mode=dark&amp;v=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/api/pacman?mode=light&amp;v=9" />
-  <img src="https://readme-typing-svg-sigma.vercel.app/api/pacman?mode=dark&amp;v=9" alt="GitHub Contribution Pacman" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg-sigma.vercel.app/api/pacman?mode=dark&amp;v=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg-sigma.vercel.app/api/pacman?mode=light&amp;v=12" />
+  <img src="https://readme-typing-svg-sigma.vercel.app/api/pacman?mode=dark&amp;v=12" alt="GitHub Contribution Pacman" />
 </picture>
 
 <br/>
@@ -241,9 +241,9 @@
 <sub>Crafted with focus · [@blackscythe123](https://github.com/blackscythe123)</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=70&section=footer&animation=fadeIn&v=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_light&height=70&section=footer&animation=fadeIn&v=9" />
-  <img src="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=70&section=footer&animation=fadeIn&v=9" width="100%" alt="Footer Wave" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=70&section=footer&animation=fadeIn&v=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_light&height=70&section=footer&animation=fadeIn&v=12" />
+  <img src="https://capsule-render-omega.vercel.app/api?type=waving&theme=dynamic_dark&height=70&section=footer&animation=fadeIn&v=12" width="100%" alt="Footer Wave" />
 </picture>
 
 </div>
