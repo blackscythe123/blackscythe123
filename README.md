@@ -67,19 +67,19 @@
 
 <div align="center">
 
-<a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=4">
+<a href="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_light&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=4" />
-    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=4" height="165" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_light&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=5" />
+    <img src="https://stats-blackscythe123.vercel.app/api/streak?username=blackscythe123&theme=dynamic_dark&hide_border=true&bg_color=00000000&timezone=Asia/Kolkata&v=5" height="165" alt="GitHub Streak" />
   </picture>
 </a>
 <br/>
-<a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=4">
+<a href="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_light&hide_border=true&bg_color=00000000&include_all_commits=true&v=4" />
-    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=4" height="165" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_light&hide_border=true&bg_color=00000000&include_all_commits=true&v=5" />
+    <img src="https://stats-blackscythe123.vercel.app/api?username=blackscythe123&show_icons=true&theme=dynamic_dark&hide_border=true&bg_color=00000000&include_all_commits=true&v=5" height="165" alt="GitHub Stats" />
   </picture>
 </a>
 <a href="https://stats-blackscythe123.vercel.app/api/top-langs?username=blackscythe123&layout=compact&theme=dynamic_dark&hide_border=true&hide=html%2Cjupyter%20notebook&bg_color=00000000&v=4">
