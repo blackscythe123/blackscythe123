@@ -91,116 +91,23 @@
             </defs>
 
     <style>
-      @keyframes dyn_dark_dot {
-    0.00%, 2.73% { fill: #fff700; }
-    3.33%, 6.07% { fill: #00ffd5; }
-    6.67%, 9.40% { fill: #ba75ff; }
-    10.00%, 12.73% { fill: #ff6257; }
-    13.33%, 16.07% { fill: #ffdd00; }
-    16.67%, 19.40% { fill: #00ff88; }
-    20.00%, 22.73% { fill: #3d98ff; }
-    23.33%, 26.07% { fill: #ff6179; }
-    26.67%, 29.40% { fill: #ffa200; }
-    30.00%, 32.73% { fill: #00ff11; }
-    33.33%, 36.07% { fill: #00a4db; }
-    36.67%, 39.40% { fill: #5294ff; }
-    40.00%, 42.73% { fill: #ff7300; }
-    43.33%, 46.07% { fill: #d4ff00; }
-    46.67%, 49.40% { fill: #00e0c6; }
-    50.00%, 52.73% { fill: #ba75ff; }
-    53.33%, 56.07% { fill: #ff5900; }
-    56.67%, 59.40% { fill: #ffe433; }
-    60.00%, 62.73% { fill: #00cc7e; }
-    63.33%, 66.07% { fill: #5294ff; }
-    66.67%, 69.40% { fill: #ff6161; }
-    70.00%, 72.73% { fill: #ffbb00; }
-    73.33%, 76.07% { fill: #3dff64; }
-    76.67%, 79.40% { fill: #009afa; }
-    80.00%, 82.73% { fill: #ff4dcf; }
-    83.33%, 86.07% { fill: #ff8800; }
-    86.67%, 89.40% { fill: #44ff00; }
-    90.00%, 92.73% { fill: #00b5b8; }
-    93.33%, 96.07% { fill: #9985ff; }
-    96.67%, 99.40% { fill: #ff622e; }
-    100% { fill: #fff700; }
-      }
-      @keyframes dyn_dark_wall {
-    0.00%, 2.73% { fill: #fff700; }
-    3.33%, 6.07% { fill: #00ffd5; }
-    6.67%, 9.40% { fill: #ba75ff; }
-    10.00%, 12.73% { fill: #ff6257; }
-    13.33%, 16.07% { fill: #ffdd00; }
-    16.67%, 19.40% { fill: #00ff88; }
-    20.00%, 22.73% { fill: #3d98ff; }
-    23.33%, 26.07% { fill: #ff6179; }
-    26.67%, 29.40% { fill: #ffa200; }
-    30.00%, 32.73% { fill: #00ff11; }
-    33.33%, 36.07% { fill: #00a4db; }
-    36.67%, 39.40% { fill: #5294ff; }
-    40.00%, 42.73% { fill: #ff7300; }
-    43.33%, 46.07% { fill: #d4ff00; }
-    46.67%, 49.40% { fill: #00e0c6; }
-    50.00%, 52.73% { fill: #ba75ff; }
-    53.33%, 56.07% { fill: #ff5900; }
-    56.67%, 59.40% { fill: #ffe433; }
-    60.00%, 62.73% { fill: #00cc7e; }
-    63.33%, 66.07% { fill: #5294ff; }
-    66.67%, 69.40% { fill: #ff6161; }
-    70.00%, 72.73% { fill: #ffbb00; }
-    73.33%, 76.07% { fill: #3dff64; }
-    76.67%, 79.40% { fill: #009afa; }
-    80.00%, 82.73% { fill: #ff4dcf; }
-    83.33%, 86.07% { fill: #ff8800; }
-    86.67%, 89.40% { fill: #44ff00; }
-    90.00%, 92.73% { fill: #00b5b8; }
-    93.33%, 96.07% { fill: #9985ff; }
-    96.67%, 99.40% { fill: #ff622e; }
-    100% { fill: #fff700; }
-      }
-      @keyframes dyn_dark_text {
-    0.00%, 2.73% { fill: #fffdb8; }
-    3.33%, 6.07% { fill: #b8fff3; }
-    6.67%, 9.40% { fill: #e0c2ff; }
-    10.00%, 12.73% { fill: #ffb3ad; }
-    13.33%, 16.07% { fill: #fff5b3; }
-    16.67%, 19.40% { fill: #ccffe7; }
-    20.00%, 22.73% { fill: #a8deff; }
-    23.33%, 26.07% { fill: #ffd6dd; }
-    26.67%, 29.40% { fill: #ffdfa8; }
-    30.00%, 32.73% { fill: #c2ffc6; }
-    33.33%, 36.07% { fill: #8af7ff; }
-    36.67%, 39.40% { fill: #cce0ff; }
-    40.00%, 42.73% { fill: #ffd8b8; }
-    43.33%, 46.07% { fill: #f3ffb8; }
-    46.67%, 49.40% { fill: #9efff4; }
-    50.00%, 52.73% { fill: #e0c2ff; }
-    53.33%, 56.07% { fill: #ffc7a8; }
-    56.67%, 59.40% { fill: #fff9d1; }
-    60.00%, 62.73% { fill: #adffe0; }
-    63.33%, 66.07% { fill: #c2deff; }
-    66.67%, 69.40% { fill: #ffd1d1; }
-    70.00%, 72.73% { fill: #ffe59e; }
-    73.33%, 76.07% { fill: #c7ffd6; }
-    76.67%, 79.40% { fill: #b3ecff; }
-    80.00%, 82.73% { fill: #ffd6f4; }
-    83.33%, 86.07% { fill: #ffdbb3; }
-    86.67%, 89.40% { fill: #d6ffc7; }
-    90.00%, 92.73% { fill: #9efdff; }
-    93.33%, 96.07% { fill: #ddd6ff; }
-    96.67%, 99.40% { fill: #ffc2ad; }
-    100% { fill: #fffdb8; }
-      }
-      .dot-lvl-1 { animation: dyn_dark_dot 150s linear infinite !important; opacity: 0.30; }
-      .dot-lvl-2 { animation: dyn_dark_dot 150s linear infinite !important; opacity: 0.55; }
-      .dot-lvl-3 { animation: dyn_dark_dot 150s linear infinite !important; opacity: 0.80; }
-      .dot-lvl-4 { animation: dyn_dark_dot 150s linear infinite !important; opacity: 1.00; }
+      .dot-lvl-1 { fill: #fff700 !important; opacity: 0.30; }
+      .dot-lvl-2 { fill: #fff700 !important; opacity: 0.55; }
+      .dot-lvl-3 { fill: #fff700 !important; opacity: 0.80; }
+      .dot-lvl-4 { fill: #fff700 !important; opacity: 1.00; }
       rect[id^="wh-"], rect[id^="wv-"] {
-        animation: dyn_dark_wall 150s linear infinite !important;
+        fill: #fff700 !important;
       }
       text {
-        animation: dyn_dark_text 150s linear infinite !important;
+        fill: #fffdb8 !important;
       }
     </style>
+  
+
+    
+  
+
+    
   <text x="10" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Oct</text><text x="32" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Nov</text><text x="54" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="142" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Dec</text><text x="164" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="230" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Jan</text><text x="252" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="318" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Feb</text><text x="340" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="406" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Mar</text><text x="428" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="516" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Apr</text><text x="538" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="604" y="10" text-anchor="middle" font-size="10" fill="#61dafb">May</text><text x="626" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="714" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Jun</text><text x="736" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="802" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Jul</text><text x="824" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="890" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Aug</text><text x="912" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="1000" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Sep</text><text x="1022" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><text x="1088" y="10" text-anchor="middle" font-size="10" fill="#61dafb">Oct</text><text x="1110" y="10" text-anchor="middle" font-size="10" fill="#61dafb"></text><rect id="c-0-0" x="0" y="15" width="20" height="20" rx="5" fill="#161b22"/><rect id="c-0-1" x="0" y="37" width="20" height="20" rx="5" fill="#161b22"/><rect id="c-0-2" x="0" y="59" width="20" height="20" rx="5" fill="#161b22"/><rect id="c-0-3" x="0" y="81" width="20" height="20" rx="5" fill="#161b22"/><rect id="bg-c-0-4" x="0" y="103" width="20" height="20" rx="5" fill="#161b22"/>
 			<rect id="c-0-4" class="dot-lvl-1" x="0" y="103" width="20" height="20" rx="5">
 				<animate attributeName="visibility" dur="252800ms" repeatCount="indefinite" values="visible;visible;hidden;hidden" keyTimes="0;0.9944;0.9945;1"/>

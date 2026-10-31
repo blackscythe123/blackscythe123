@@ -244,58 +244,27 @@ const palettes = [
   }
 ];
 
-function generateKeyframesCSS(isLight = false, totalDuration = 150) {
+function generateKeyframesCSS(isLight = false, _totalDuration = 150) {
   const n = palettes.length;
-  const p = 100 / n;
-  const hold = p * 0.82;
-
   // Daily synchronized coprime lockstep (matches microservices lockstep exactly)
   const slot = Math.floor(Date.now() / (24 * 60 * 60 * 1000));
   const startIndex = (slot * 7 + 6) % n;
-  const activePalettes = [...palettes.slice(startIndex), ...palettes.slice(0, startIndex)];
+  const pal = palettes[startIndex];
 
-  let dotKfs = '';
-  let wallKfs = '';
-  let textKfs = '';
-
-  activePalettes.forEach((pal, i) => {
-    const p1 = (i * p).toFixed(2);
-    const p2 = (i * p + hold).toFixed(2);
-    const wallCol = isLight ? pal.light_wall : pal.dark_wall;
-    const textCol = isLight ? pal.light_text : pal.dark_text;
-
-    dotKfs += '    ' + p1 + '%, ' + p2 + '% { fill: #' + wallCol + '; }\n';
-    wallKfs += '    ' + p1 + '%, ' + p2 + '% { fill: #' + wallCol + '; }\n';
-    textKfs += '    ' + p1 + '%, ' + p2 + '% { fill: #' + textCol + '; }\n';
-  });
-
-  const firstPal = activePalettes[0];
-  const firstWall = isLight ? firstPal.light_wall : firstPal.dark_wall;
-  const firstText = isLight ? firstPal.light_text : firstPal.dark_text;
-
-  dotKfs += '    100% { fill: #' + firstWall + '; }\n';
-  wallKfs += '    100% { fill: #' + firstWall + '; }\n';
-  textKfs += '    100% { fill: #' + firstText + '; }\n';
-
-  const animPrefix = isLight ? 'dyn_light' : 'dyn_dark';
+  const wallCol = isLight ? pal.light_wall : pal.dark_wall;
+  const textCol = isLight ? pal.light_text : pal.dark_text;
 
   return `
     <style>
-      @keyframes ${animPrefix}_dot {
-${dotKfs}      }
-      @keyframes ${animPrefix}_wall {
-${wallKfs}      }
-      @keyframes ${animPrefix}_text {
-${textKfs}      }
-      .dot-lvl-1 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 0.30; }
-      .dot-lvl-2 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 0.55; }
-      .dot-lvl-3 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 0.80; }
-      .dot-lvl-4 { animation: ${animPrefix}_dot ${totalDuration}s linear infinite !important; opacity: 1.00; }
+      .dot-lvl-1 { fill: #${wallCol} !important; opacity: 0.30; }
+      .dot-lvl-2 { fill: #${wallCol} !important; opacity: 0.55; }
+      .dot-lvl-3 { fill: #${wallCol} !important; opacity: 0.80; }
+      .dot-lvl-4 { fill: #${wallCol} !important; opacity: 1.00; }
       rect[id^="wh-"], rect[id^="wv-"] {
-        animation: ${animPrefix}_wall ${totalDuration}s linear infinite !important;
+        fill: #${wallCol} !important;
       }
       text {
-        animation: ${animPrefix}_text ${totalDuration}s linear infinite !important;
+        fill: #${textCol} !important;
       }
     </style>
   `;
