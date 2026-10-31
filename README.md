@@ -27,9 +27,9 @@
 
 <!-- Live Verified Engineering Metrics -->
 <p align="center">
-  <a href="https://wakatime.com/@blackscythe123"><img src="https://img.shields.io/badge/Code_Time-500_hrs_54_mins-0052CC?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time" /></a>
+  <a href="https://wakatime.com/@blackscythe123"><img src="https://img.shields.io/badge/Code_Time-569_hrs_56_mins-0052CC?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time" /></a>
   <a href="https://github.com/blackscythe123"><img src="https://img.shields.io/badge/Lines_Crafted-12.11M_LOC-107C41?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Lines of code" /></a>
-  <a href="https://github.com/blackscythe123?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fblackscythe123&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&logoColor=white&color=161b22" alt="Public Repositories" /></a>
+  <a href="https://github.com/blackscythe123?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-38-161b22?style=flat-square&logo=github&logoColor=white" alt="Public Repositories" /></a>
   <a href="https://github.com/blackscythe123?tab=repositories&q=&sort=stargazers"><img src="https://img.shields.io/github/stars/blackscythe123?style=flat-square&logo=github&color=D4AF37&label=Stars" alt="Public Stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=blackscythe123&label=Profile+Views&style=flat-square&color=0052CC" alt="Profile Views" />
 </p>
