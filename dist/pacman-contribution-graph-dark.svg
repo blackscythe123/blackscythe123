@@ -91,6 +91,20 @@
             </defs>
 
     <style>
+      .dot-lvl-1 { fill: #ba75ff !important; opacity: 0.30; }
+      .dot-lvl-2 { fill: #ba75ff !important; opacity: 0.55; }
+      .dot-lvl-3 { fill: #ba75ff !important; opacity: 0.80; }
+      .dot-lvl-4 { fill: #ba75ff !important; opacity: 1.00; }
+      rect[id^="wh-"], rect[id^="wv-"] {
+        fill: #ba75ff !important;
+      }
+      text {
+        fill: #e0c2ff !important;
+      }
+    </style>
+  
+
+    <style>
       .dot-lvl-1 { fill: #ff7300 !important; opacity: 0.30; }
       .dot-lvl-2 { fill: #ff7300 !important; opacity: 0.55; }
       .dot-lvl-3 { fill: #ff7300 !important; opacity: 0.80; }

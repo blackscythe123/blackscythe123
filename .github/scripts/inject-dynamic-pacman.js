@@ -246,10 +246,8 @@ const palettes = [
 
 function generateKeyframesCSS(isLight = false, _totalDuration = 150) {
   const n = palettes.length;
-  // 10-minute synchronized coprime rotation
-  const bucket = Math.floor(Date.now() / (10 * 60 * 1000));
-  const startIndex = (bucket * 7 + 11) % n;
-  const pal = palettes[startIndex];
+  // Fixed master synchronized sequence (Camo-immune lockstep)
+  const pal = palettes[0];
 
   const wallCol = isLight ? pal.light_wall : pal.dark_wall;
   const textCol = isLight ? pal.light_text : pal.dark_text;
