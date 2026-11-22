@@ -58,9 +58,24 @@
 
 <div align="center">
 
-**Frontend & UI Engineering**
+**Languages**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/blackscythe123/ExpenseIQ)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/blackscythe123?tab=repositories&language=python)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/blackscythe123/voxa)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/blackscythe123/flashbook)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/blackscythe123/voxa)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/blackscythe123/Retro_Rpg)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/blackscythe123?tab=repositories&language=go)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://github.com/blackscythe123/flashbook)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/blackscythe123/LocalLogs)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
+
+<br/>
+
+**Frontend & UI Engineering**
+
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/blackscythe123/FarmLedge)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/blackscythe123/my_portfolio)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://github.com/blackscythe123/crud)
@@ -97,8 +112,6 @@
 **Mobile & Native Development**
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/blackscythe123/flashbook)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/blackscythe123/flashbook)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://github.com/blackscythe123/flashbook)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/blackscythe123/soundwave)
 [![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/blackscythe123/OutPass)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/blackscythe123/voxa)
@@ -149,7 +162,6 @@
 
 **Web3, Payments & Protocols**
 
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
 [![viem](https://img.shields.io/badge/viem-FFC517?style=flat-square&logo=ethereum&logoColor=black)](https://github.com/blackscythe123/FarmLedge)
 [![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
 [![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)](https://github.com/blackscythe123/ideaquest)

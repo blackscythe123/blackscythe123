@@ -35,9 +35,10 @@ The README has three logical sections — **do not reorder them**:
 
 ## Tech Stack — Sections & Curation Rules
 
-The Tech Stack uses `flat-square` shields.io badges. There are **9 sections** in order:
+The Tech Stack uses `flat-square` shields.io badges. There are **10 sections** in order:
 
-1. **Frontend** — languages, frameworks, UI libraries, animation, data-viz, routing
+0. **Languages** — every programming language that is primary in at least one real (non-coursework) repo; language badges live only here
+1. **Frontend** — frameworks, UI libraries, animation, data-viz, routing
 2. **Backend** — server frameworks, ORMs, languages, communication APIs
 3. **Mobile** — cross-platform & native SDKs, on-device ML, Compose
 4. **Agentic AI & Developer Tooling** — autonomous coding agents, developer CLIs, model harnesses (Claude Code, Antigravity CLI, Codex CLI)
