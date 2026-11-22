@@ -85,11 +85,6 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](https://github.com/blackscythe123/my_portfolio)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)](https://github.com/blackscythe123/peaceful-innovations-portfolio)
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
-[![ReactFlow](https://img.shields.io/badge/ReactFlow-FF0072?style=flat-square&logo=react&logoColor=white)](https://github.com/blackscythe123/workflow_space)
-[![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)](https://github.com/blackscythe123/ExpenseIQ)
-[![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)](https://github.com/blackscythe123/Velura)
-[![Spline](https://img.shields.io/badge/Spline-000000?style=flat-square&logo=spline&logoColor=white)](https://github.com/blackscythe123/Velura)
-[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/blackscythe123/FarmLedge)
 
 <br/>
 
